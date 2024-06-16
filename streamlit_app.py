@@ -32,6 +32,7 @@ if menu == "Charts":
             "Overall Performance",
             "Best Splits",
             "Heatmap",
+            "Individual Split Performance",
         ],
     )
 
@@ -155,6 +156,40 @@ if menu == "Charts":
 
         st.plotly_chart(heatmap_chart)
 
+    # Function to render the individual split performance radar chart
+    def render_individual_split_performance():
+        st.write("Individual Split Performance")
+        selected_team = st.selectbox("Select a team", splits_df["Team"].unique())
+
+        team_splits_df = splits_df[splits_df["Team"] == selected_team]
+
+        if not team_splits_df.empty:
+            radar_chart = go.Figure()
+
+            radar_chart.add_trace(
+                go.Scatterpolar(
+                    r=team_splits_df["SplitTimeInSeconds"],
+                    theta=team_splits_df["SplitLabel"],
+                    fill="toself",
+                    name=selected_team,
+                )
+            )
+
+            radar_chart.update_layout(
+                polar=dict(
+                    radialaxis=dict(
+                        visible=True,
+                        range=[0, team_splits_df["SplitTimeInSeconds"].max()],
+                    )
+                ),
+                showlegend=True,
+                title="Individual Split Performance",
+            )
+
+            st.plotly_chart(radar_chart)
+        else:
+            st.write("No data available for the selected team.")
+
     # Render the selected chart
     if page == "Split Comparison":
         render_split_comparison()
@@ -166,6 +201,8 @@ if menu == "Charts":
         render_best_splits()
     elif page == "Heatmap":
         render_heatmap()
+    elif page == "Individual Split Performance":
+        render_individual_split_performance()
 
 elif menu == "About":
     render_about()
