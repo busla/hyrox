@@ -2,7 +2,6 @@ import streamlit as st
 import json
 import pandas as pd
 import plotly.express as px
-import re
 
 # Load the JSON data
 with open("hyrox_results.json", "r", encoding="utf-8") as f:
@@ -11,21 +10,58 @@ with open("hyrox_results.json", "r", encoding="utf-8") as f:
 # Convert the JSON data to a DataFrame
 df = pd.json_normalize(data)
 
-# Extract split times into a DataFrame
+# Define the correct order of splits
+split_order = [
+    "Hlaup 1",
+    "Ski-Erg",
+    "Hlaup 2",
+    "Ýta sleða",
+    "Hlaup 3",
+    "Draga sleða",
+    "Hlaup 4",
+    "Burpee langstökk",
+    "Hlaup 5",
+    "Róður",
+    "Hlaup 6",
+    "Bændaganga",
+    "Hlaup 7",
+    "Dumbell lovers",
+    "Hlaup 8",
+    "Wall Balls",
+]
+
+
+# Create a function to map split labels to the correct order
+def map_split_labels(splits):
+    split_counts = {"Hlaup": 0}
+    mapped_splits = []
+
+    for split in splits:
+        label = split["label"]
+        if "Hlaup" in label:
+            split_counts["Hlaup"] += 1
+            label = f'Hlaup {split_counts["Hlaup"]}'
+        mapped_splits.append({"label": label, "time": split["time"]})
+
+    return mapped_splits
+
+
+# Convert to DataFrame and add placeholders for missing splits
 split_records = []
-all_splits = []
 for index, row in df.iterrows():
-    for i, split in enumerate(row["Splits"]):
-        split_label = split["label"]
+    team_splits = {
+        split["label"]: split["time"] for split in map_split_labels(row["Splits"])
+    }
+
+    for split_label in split_order:
         split_records.append(
             {
                 "Team": row["Team"],
                 "SplitLabel": split_label,
-                "SplitTime": split["time"],
+                "SplitTime": team_splits.get(split_label, "00:00"),
+                "Order": split_order.index(split_label),
             }
         )
-        if split_label not in all_splits:
-            all_splits.append(split_label)
 
 splits_df = pd.DataFrame(split_records)
 
@@ -36,7 +72,7 @@ def convert_time_to_seconds(time_str):
         h, m, s = map(int, time_str.split(":"))
         return h * 3600 + m * 60 + s
     except:
-        return None
+        return float("inf")
 
 
 # Use the lower of the two total times
@@ -49,8 +85,6 @@ df["TotalTimeInSeconds"] = df["Time"].apply(
 
 # Convert split time to seconds
 def convert_split_time_to_seconds(time_str):
-    if not time_str:
-        return None
     try:
         parts = list(map(int, time_str.split(":")))
         if len(parts) == 3:
@@ -60,7 +94,7 @@ def convert_split_time_to_seconds(time_str):
             m, s = parts
             return m * 60 + s
         else:
-            return None
+            return float("inf")
     except Exception as e:
         print(f"Error converting time: {time_str} - {e}")
         return None
@@ -70,39 +104,8 @@ splits_df["SplitTimeInSeconds"] = splits_df["SplitTime"].apply(
     convert_split_time_to_seconds
 )
 
-# Ensure all splits are included for each team
-teams = splits_df["Team"].unique()
-full_split_records = []
-
-for team in teams:
-    team_splits = splits_df[splits_df["Team"] == team]
-    team_split_labels = team_splits["SplitLabel"].tolist()
-
-    for split in all_splits:
-        if split not in team_split_labels:
-            full_split_records.append(
-                {
-                    "Team": team,
-                    "SplitLabel": split,
-                    "SplitTime": "",
-                    "SplitTimeInSeconds": None,
-                }
-            )
-        else:
-            existing_split = team_splits[team_splits["SplitLabel"] == split].iloc[0]
-            full_split_records.append(
-                {
-                    "Team": team,
-                    "SplitLabel": split,
-                    "SplitTime": existing_split["SplitTime"],
-                    "SplitTimeInSeconds": existing_split["SplitTimeInSeconds"],
-                }
-            )
-
-full_splits_df = pd.DataFrame(full_split_records)
-
-# Remove rows with None in SplitTimeInSeconds for the plot
-plot_splits_df = full_splits_df.dropna(subset=["SplitTimeInSeconds"])
+# Drop rows with invalid time conversions
+splits_df = splits_df.dropna(subset=["SplitTimeInSeconds"])
 
 # Get the list of categories
 categories = df["Category"].unique()
@@ -124,16 +127,10 @@ st.dataframe(
 )
 
 # Plot the splits comparison
-filtered_splits_df = plot_splits_df[plot_splits_df["Team"].isin(filtered_teams)]
+filtered_splits_df = splits_df[splits_df["Team"].isin(filtered_teams)]
 
 if not filtered_splits_df.empty:
     st.write(f"Split Comparison for Teams in {selected_category}")
-
-    # Ensure SplitLabel is a categorical type with a specified order
-    filtered_splits_df["SplitLabel"] = pd.Categorical(
-        filtered_splits_df["SplitLabel"], categories=all_splits, ordered=True
-    )
-
     fig = px.bar(
         filtered_splits_df,
         x="SplitLabel",
@@ -145,7 +142,9 @@ if not filtered_splits_df.empty:
         hover_name="Team",
         hover_data={"SplitTimeInSeconds": True},
     )
-    fig.update_layout(xaxis={"categoryorder": "array"})
+
+    # Ensure the correct order of splits
+    fig.update_layout(xaxis={"categoryorder": "array", "categoryarray": split_order})
     st.plotly_chart(fig)
 else:
     st.write("No data available for the selected category.")

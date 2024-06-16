@@ -14,60 +14,74 @@
     ],
     "Splits": [
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:20"
+        "label": "Ski-Erg",
+        "time": "00:04:20",
+        "order": 1
       },
       {
-        "label": "1. Hlaup",
-        "time": "00:06:51"
+        "label": "Hlaup",
+        "time": "00:06:51",
+        "order": 2
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:05:02"
+        "label": "Ýta sleða",
+        "time": "00:05:02",
+        "order": 3
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:03:20"
+        "label": "Hlaup",
+        "time": "00:03:20",
+        "order": 4
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:56"
+        "label": "Draga sleða",
+        "time": "00:04:56",
+        "order": 5
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:03:11"
+        "label": "Hlaup",
+        "time": "00:03:11",
+        "order": 6
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:54"
+        "label": "Burpee langstökk",
+        "time": "00:04:54",
+        "order": 7
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:28"
+        "label": "Hlaup",
+        "time": "00:04:28",
+        "order": 8
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:56"
+        "label": "Róður",
+        "time": "00:04:56",
+        "order": 9
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:08"
+        "label": "Hlaup",
+        "time": "00:04:08",
+        "order": 10
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:04:47"
+        "label": "Bændaganga",
+        "time": "00:04:47",
+        "order": 11
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:02:51"
+        "label": "Hlaup",
+        "time": "00:02:51",
+        "order": 12
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:29"
+        "label": "Dumbell lovers",
+        "time": "00:04:29",
+        "order": 13
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:15"
+        "label": "Hlaup",
+        "time": "00:04:15",
+        "order": 14
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -87,64 +101,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:03:47"
+        "label": "Hlaup",
+        "time": "00:03:47",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:49"
+        "label": "Ski-Erg",
+        "time": "00:03:49",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:07"
+        "label": "Hlaup",
+        "time": "00:04:07",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:46"
+        "label": "Ýta sleða",
+        "time": "00:01:46",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:30"
+        "label": "Hlaup",
+        "time": "00:04:30",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:06:59"
+        "label": "Draga sleða",
+        "time": "00:06:59",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:02:18"
+        "label": "Hlaup",
+        "time": "00:02:18",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:27"
+        "label": "Burpee langstökk",
+        "time": "00:04:27",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:01"
+        "label": "Hlaup",
+        "time": "00:04:01",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:27"
+        "label": "Róður",
+        "time": "00:04:27",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:02:16"
+        "label": "Hlaup",
+        "time": "00:02:16",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:04:23"
+        "label": "Bændaganga",
+        "time": "00:04:23",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:04"
+        "label": "Hlaup",
+        "time": "00:03:04",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:11"
+        "label": "Dumbell lovers",
+        "time": "00:04:11",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:39"
+        "label": "Hlaup",
+        "time": "00:03:39",
+        "order": 15
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -164,68 +193,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:03:46"
+        "label": "Hlaup",
+        "time": "00:03:46",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:54"
+        "label": "Ski-Erg",
+        "time": "00:03:54",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:03:56"
+        "label": "Hlaup",
+        "time": "00:03:56",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:36"
+        "label": "Ýta sleða",
+        "time": "00:02:36",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:29"
+        "label": "Hlaup",
+        "time": "00:04:29",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:01:03"
+        "label": "Draga sleða",
+        "time": "00:01:03",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:01:50"
+        "label": "Hlaup",
+        "time": "00:01:50",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:17"
+        "label": "Burpee langstökk",
+        "time": "00:04:17",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:02:47"
+        "label": "Hlaup",
+        "time": "00:02:47",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:18"
+        "label": "Róður",
+        "time": "00:04:18",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:08"
+        "label": "Hlaup",
+        "time": "00:04:08",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:04:06"
+        "label": "Bændaganga",
+        "time": "00:04:06",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:23"
+        "label": "Hlaup",
+        "time": "00:03:23",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:07"
+        "label": "Dumbell lovers",
+        "time": "00:04:07",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:02:17"
+        "label": "Hlaup",
+        "time": "00:02:17",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:08:04"
+        "label": "Wall Balls",
+        "time": "00:08:04",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -245,52 +290,64 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:14:21"
+        "label": "Hlaup",
+        "time": "00:14:21",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:52"
+        "label": "Ski-Erg",
+        "time": "00:04:52",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:02:07"
+        "label": "Hlaup",
+        "time": "00:02:07",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:04:43"
+        "label": "Ýta sleða",
+        "time": "00:04:43",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:02:03"
+        "label": "Hlaup",
+        "time": "00:02:03",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:08:31"
+        "label": "Draga sleða",
+        "time": "00:08:31",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:33"
+        "label": "Hlaup",
+        "time": "00:04:33",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:25"
+        "label": "Burpee langstökk",
+        "time": "00:02:25",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:41"
+        "label": "Hlaup",
+        "time": "00:04:41",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:02:49"
+        "label": "Róður",
+        "time": "00:02:49",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:36"
+        "label": "Hlaup",
+        "time": "00:04:36",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:40"
+        "label": "Bændaganga",
+        "time": "00:03:40",
+        "order": 12
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -310,68 +367,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:00"
+        "label": "Hlaup",
+        "time": "00:04:00",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:02"
+        "label": "Ski-Erg",
+        "time": "00:04:02",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:08"
+        "label": "Hlaup",
+        "time": "00:04:08",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:04"
+        "label": "Ýta sleða",
+        "time": "00:02:04",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:37"
+        "label": "Hlaup",
+        "time": "00:04:37",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:51"
+        "label": "Draga sleða",
+        "time": "00:02:51",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:25"
+        "label": "Hlaup",
+        "time": "00:04:25",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:25"
+        "label": "Burpee langstökk",
+        "time": "00:02:25",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:01"
+        "label": "Róður",
+        "time": "00:04:01",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:31"
+        "label": "Hlaup",
+        "time": "00:04:31",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:22"
+        "label": "Bændaganga",
+        "time": "00:02:22",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:32"
+        "label": "Hlaup",
+        "time": "00:04:32",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:55"
+        "label": "Dumbell lovers",
+        "time": "00:02:55",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:28"
+        "label": "Hlaup",
+        "time": "00:04:28",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:50"
+        "label": "Wall Balls",
+        "time": "00:03:50",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -391,68 +464,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:03:37"
+        "label": "Hlaup",
+        "time": "00:03:37",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:05"
+        "label": "Ski-Erg",
+        "time": "00:04:05",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:03:58"
+        "label": "Hlaup",
+        "time": "00:03:58",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:38"
+        "label": "Ýta sleða",
+        "time": "00:02:38",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:20"
+        "label": "Hlaup",
+        "time": "00:04:20",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:49"
+        "label": "Draga sleða",
+        "time": "00:03:49",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:18"
+        "label": "Hlaup",
+        "time": "00:04:18",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:15"
+        "label": "Burpee langstökk",
+        "time": "00:02:15",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:52"
+        "label": "Hlaup",
+        "time": "00:04:52",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:51"
+        "label": "Róður",
+        "time": "00:04:51",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:16"
+        "label": "Hlaup",
+        "time": "00:04:16",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:03"
+        "label": "Bændaganga",
+        "time": "00:02:03",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:14"
+        "label": "Dumbell lovers",
+        "time": "00:03:14",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:22"
+        "label": "Hlaup",
+        "time": "00:04:22",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:36"
+        "label": "Wall Balls",
+        "time": "00:04:36",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -472,68 +561,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:18"
+        "label": "Hlaup",
+        "time": "00:04:18",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:03"
+        "label": "Ski-Erg",
+        "time": "00:04:03",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:33"
+        "label": "Hlaup",
+        "time": "00:04:33",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:54"
+        "label": "Ýta sleða",
+        "time": "00:01:54",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:35"
+        "label": "Draga sleða",
+        "time": "00:02:35",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:34"
+        "label": "Burpee langstökk",
+        "time": "00:02:34",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:04"
+        "label": "Róður",
+        "time": "00:04:04",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:39"
+        "label": "Hlaup",
+        "time": "00:04:39",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:20"
+        "label": "Bændaganga",
+        "time": "00:03:20",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:45"
+        "label": "Hlaup",
+        "time": "00:04:45",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:29"
+        "label": "Dumbell lovers",
+        "time": "00:02:29",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:35"
+        "label": "Hlaup",
+        "time": "00:04:35",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:43"
+        "label": "Wall Balls",
+        "time": "00:03:43",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -553,60 +658,74 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:33"
+        "label": "Hlaup",
+        "time": "00:04:33",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:58"
+        "label": "Ski-Erg",
+        "time": "00:03:58",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:05"
+        "label": "Hlaup",
+        "time": "00:04:05",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:26"
+        "label": "Ýta sleða",
+        "time": "00:02:26",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:45"
+        "label": "Hlaup",
+        "time": "00:04:45",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:01:54"
+        "label": "Draga sleða",
+        "time": "00:01:54",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:40"
+        "label": "Burpee langstökk",
+        "time": "00:02:40",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:19"
+        "label": "Róður",
+        "time": "00:04:19",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:07:17"
+        "label": "Bændaganga",
+        "time": "00:07:17",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:12"
+        "label": "Hlaup",
+        "time": "00:03:12",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:08:58"
+        "label": "Dumbell lovers",
+        "time": "00:08:58",
+        "order": 14
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -626,68 +745,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:00:05"
+        "label": "Hlaup",
+        "time": "00:00:05",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:06"
+        "label": "Ski-Erg",
+        "time": "00:04:06",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:01"
+        "label": "Hlaup",
+        "time": "00:04:01",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:04:15"
+        "label": "Ýta sleða",
+        "time": "00:04:15",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:02:24"
+        "label": "Hlaup",
+        "time": "00:02:24",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:38"
+        "label": "Draga sleða",
+        "time": "00:04:38",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:03:28"
+        "label": "Hlaup",
+        "time": "00:03:28",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:32"
+        "label": "Burpee langstökk",
+        "time": "00:04:32",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:02:37"
+        "label": "Hlaup",
+        "time": "00:02:37",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:42"
+        "label": "Róður",
+        "time": "00:04:42",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:08"
+        "label": "Hlaup",
+        "time": "00:04:08",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:04:30"
+        "label": "Bændaganga",
+        "time": "00:04:30",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:57"
+        "label": "Hlaup",
+        "time": "00:03:57",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:42"
+        "label": "Dumbell lovers",
+        "time": "00:04:42",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:02:41"
+        "label": "Hlaup",
+        "time": "00:02:41",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:08:15"
+        "label": "Wall Balls",
+        "time": "00:08:15",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -707,68 +842,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:03:56"
+        "label": "Hlaup",
+        "time": "00:03:56",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:07"
+        "label": "Ski-Erg",
+        "time": "00:04:07",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:11"
+        "label": "Hlaup",
+        "time": "00:04:11",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:21"
+        "label": "Ýta sleða",
+        "time": "00:02:21",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:50"
+        "label": "Draga sleða",
+        "time": "00:02:50",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:46"
+        "label": "Hlaup",
+        "time": "00:04:46",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:37"
+        "label": "Burpee langstökk",
+        "time": "00:02:37",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:23"
+        "label": "Hlaup",
+        "time": "00:05:23",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:11"
+        "label": "Róður",
+        "time": "00:04:11",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:08"
+        "label": "Bændaganga",
+        "time": "00:02:08",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:04"
+        "label": "Dumbell lovers",
+        "time": "00:03:04",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:50"
+        "label": "Wall Balls",
+        "time": "00:03:50",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -788,68 +939,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:03:55"
+        "label": "Hlaup",
+        "time": "00:03:55",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:51"
+        "label": "Ski-Erg",
+        "time": "00:03:51",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:19"
+        "label": "Hlaup",
+        "time": "00:04:19",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:57"
+        "label": "Ýta sleða",
+        "time": "00:01:57",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:23"
+        "label": "Hlaup",
+        "time": "00:05:23",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:20"
+        "label": "Draga sleða",
+        "time": "00:03:20",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:38"
+        "label": "Hlaup",
+        "time": "00:05:38",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:01:01"
+        "label": "Burpee langstökk",
+        "time": "00:01:01",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:01:09"
+        "label": "Hlaup",
+        "time": "00:01:09",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:49"
+        "label": "Róður",
+        "time": "00:05:49",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:03:55"
+        "label": "Hlaup",
+        "time": "00:03:55",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:16"
+        "label": "Bændaganga",
+        "time": "00:05:16",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:02:04"
+        "label": "Hlaup",
+        "time": "00:02:04",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:13"
+        "label": "Dumbell lovers",
+        "time": "00:05:13",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:14"
+        "label": "Hlaup",
+        "time": "00:03:14",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:09:09"
+        "label": "Wall Balls",
+        "time": "00:09:09",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -869,68 +1036,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:12"
+        "label": "Hlaup",
+        "time": "00:04:12",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:16"
+        "label": "Ski-Erg",
+        "time": "00:04:16",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:31"
+        "label": "Hlaup",
+        "time": "00:04:31",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:04"
+        "label": "Ýta sleða",
+        "time": "00:02:04",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:46"
+        "label": "Draga sleða",
+        "time": "00:02:46",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:18"
+        "label": "Hlaup",
+        "time": "00:05:18",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:55"
+        "label": "Burpee langstökk",
+        "time": "00:02:55",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:13"
+        "label": "Hlaup",
+        "time": "00:05:13",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:22"
+        "label": "Róður",
+        "time": "00:04:22",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:25"
+        "label": "Bændaganga",
+        "time": "00:02:25",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:49"
+        "label": "Dumbell lovers",
+        "time": "00:03:49",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:01"
+        "label": "Wall Balls",
+        "time": "00:04:01",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -950,68 +1133,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:21"
+        "label": "Hlaup",
+        "time": "00:04:21",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:58"
+        "label": "Ski-Erg",
+        "time": "00:03:58",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:38"
+        "label": "Hlaup",
+        "time": "00:04:38",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:39"
+        "label": "Ýta sleða",
+        "time": "00:01:39",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:27"
+        "label": "Hlaup",
+        "time": "00:05:27",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:44"
+        "label": "Draga sleða",
+        "time": "00:02:44",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:24"
+        "label": "Hlaup",
+        "time": "00:05:24",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:35"
+        "label": "Burpee langstökk",
+        "time": "00:02:35",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:11"
+        "label": "Hlaup",
+        "time": "00:06:11",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:07"
+        "label": "Róður",
+        "time": "00:04:07",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:20"
+        "label": "Hlaup",
+        "time": "00:05:20",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:23"
+        "label": "Bændaganga",
+        "time": "00:02:23",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:22"
+        "label": "Hlaup",
+        "time": "00:05:22",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:49"
+        "label": "Dumbell lovers",
+        "time": "00:03:49",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:55"
+        "label": "Wall Balls",
+        "time": "00:03:55",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1031,68 +1230,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:15"
+        "label": "Hlaup",
+        "time": "00:04:15",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:20"
+        "label": "Ski-Erg",
+        "time": "00:04:20",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:55"
+        "label": "Ýta sleða",
+        "time": "00:02:55",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:28"
+        "label": "Hlaup",
+        "time": "00:05:28",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:37"
+        "label": "Draga sleða",
+        "time": "00:03:37",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:30"
+        "label": "Hlaup",
+        "time": "00:05:30",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:52"
+        "label": "Burpee langstökk",
+        "time": "00:02:52",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:10"
+        "label": "Hlaup",
+        "time": "00:05:10",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:28"
+        "label": "Róður",
+        "time": "00:04:28",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:13"
+        "label": "Hlaup",
+        "time": "00:05:13",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:38"
+        "label": "Bændaganga",
+        "time": "00:02:38",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:13"
+        "label": "Dumbell lovers",
+        "time": "00:03:13",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:56"
+        "label": "Wall Balls",
+        "time": "00:03:56",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1112,68 +1327,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:46"
+        "label": "Hlaup",
+        "time": "00:04:46",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:03:53"
+        "label": "Ski-Erg",
+        "time": "00:03:53",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:01:03"
+        "label": "Hlaup",
+        "time": "00:01:03",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:04:06"
+        "label": "Ýta sleða",
+        "time": "00:04:06",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:01:43"
+        "label": "Hlaup",
+        "time": "00:01:43",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:43"
+        "label": "Draga sleða",
+        "time": "00:05:43",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:02:52"
+        "label": "Hlaup",
+        "time": "00:02:52",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:05:32"
+        "label": "Burpee langstökk",
+        "time": "00:05:32",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:02:23"
+        "label": "Hlaup",
+        "time": "00:02:23",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:34"
+        "label": "Róður",
+        "time": "00:05:34",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:12"
+        "label": "Hlaup",
+        "time": "00:04:12",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:46"
+        "label": "Bændaganga",
+        "time": "00:05:46",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:02:42"
+        "label": "Hlaup",
+        "time": "00:02:42",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:38"
+        "label": "Dumbell lovers",
+        "time": "00:05:38",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:43"
+        "label": "Hlaup",
+        "time": "00:03:43",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:09:39"
+        "label": "Wall Balls",
+        "time": "00:09:39",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1193,68 +1424,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:34"
+        "label": "Hlaup",
+        "time": "00:04:34",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:02"
+        "label": "Ski-Erg",
+        "time": "00:04:02",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:48"
+        "label": "Ýta sleða",
+        "time": "00:01:48",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:29"
+        "label": "Hlaup",
+        "time": "00:05:29",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:15"
+        "label": "Draga sleða",
+        "time": "00:03:15",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:43"
+        "label": "Hlaup",
+        "time": "00:05:43",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:40"
+        "label": "Burpee langstökk",
+        "time": "00:03:40",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:40"
+        "label": "Róður",
+        "time": "00:04:40",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:29"
+        "label": "Hlaup",
+        "time": "00:05:29",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:18"
+        "label": "Bændaganga",
+        "time": "00:02:18",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:19"
+        "label": "Hlaup",
+        "time": "00:05:19",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:37"
+        "label": "Dumbell lovers",
+        "time": "00:03:37",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:12"
+        "label": "Hlaup",
+        "time": "00:05:12",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:42"
+        "label": "Wall Balls",
+        "time": "00:03:42",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1274,64 +1521,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:25"
+        "label": "Ski-Erg",
+        "time": "00:04:25",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:46"
+        "label": "Hlaup",
+        "time": "00:04:46",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:23"
+        "label": "Ýta sleða",
+        "time": "00:02:23",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:35"
+        "label": "Hlaup",
+        "time": "00:05:35",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:09:01"
+        "label": "Draga sleða",
+        "time": "00:09:01",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:03:04"
+        "label": "Hlaup",
+        "time": "00:03:04",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:05:28"
+        "label": "Burpee langstökk",
+        "time": "00:05:28",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:00"
+        "label": "Róður",
+        "time": "00:05:00",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:03:01"
+        "label": "Hlaup",
+        "time": "00:03:01",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:00"
+        "label": "Bændaganga",
+        "time": "00:05:00",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:39"
+        "label": "Hlaup",
+        "time": "00:03:39",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:33"
+        "label": "Dumbell lovers",
+        "time": "00:04:33",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:05"
+        "label": "Hlaup",
+        "time": "00:04:05",
+        "order": 15
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1351,68 +1613,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:20"
+        "label": "Hlaup",
+        "time": "00:04:20",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:13"
+        "label": "Ski-Erg",
+        "time": "00:04:13",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:45"
+        "label": "Hlaup",
+        "time": "00:04:45",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:03:04"
+        "label": "Ýta sleða",
+        "time": "00:03:04",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:21"
+        "label": "Hlaup",
+        "time": "00:06:21",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:26"
+        "label": "Draga sleða",
+        "time": "00:04:26",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:16"
+        "label": "Hlaup",
+        "time": "00:05:16",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:54"
+        "label": "Burpee langstökk",
+        "time": "00:02:54",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:20"
+        "label": "Hlaup",
+        "time": "00:05:20",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:54"
+        "label": "Róður",
+        "time": "00:04:54",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:40"
+        "label": "Hlaup",
+        "time": "00:05:40",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:57"
+        "label": "Bændaganga",
+        "time": "00:02:57",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:38"
+        "label": "Hlaup",
+        "time": "00:04:38",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:24"
+        "label": "Dumbell lovers",
+        "time": "00:03:24",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:43"
+        "label": "Hlaup",
+        "time": "00:04:43",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:47"
+        "label": "Wall Balls",
+        "time": "00:03:47",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1432,68 +1710,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:14:20"
+        "label": "Hlaup",
+        "time": "00:14:20",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:11"
+        "label": "Ski-Erg",
+        "time": "00:04:11",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:19"
+        "label": "Hlaup",
+        "time": "00:04:19",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:47"
+        "label": "Ýta sleða",
+        "time": "00:01:47",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:24"
+        "label": "Draga sleða",
+        "time": "00:03:24",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:50"
+        "label": "Hlaup",
+        "time": "00:06:50",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:01:30"
+        "label": "Burpee langstökk",
+        "time": "00:01:30",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:19"
+        "label": "Hlaup",
+        "time": "00:04:19",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:00"
+        "label": "Róður",
+        "time": "00:04:00",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:30"
+        "label": "Hlaup",
+        "time": "00:04:30",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:07"
+        "label": "Bændaganga",
+        "time": "00:02:07",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:31"
+        "label": "Hlaup",
+        "time": "00:04:31",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:16"
+        "label": "Dumbell lovers",
+        "time": "00:03:16",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:34"
+        "label": "Hlaup",
+        "time": "00:04:34",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:55"
+        "label": "Wall Balls",
+        "time": "00:03:55",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1513,68 +1807,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:15"
+        "label": "Ski-Erg",
+        "time": "00:04:15",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:58"
+        "label": "Ýta sleða",
+        "time": "00:01:58",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:09"
+        "label": "Hlaup",
+        "time": "00:06:09",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:09"
+        "label": "Draga sleða",
+        "time": "00:04:09",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:58"
+        "label": "Hlaup",
+        "time": "00:05:58",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:14"
+        "label": "Burpee langstökk",
+        "time": "00:04:14",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:46"
+        "label": "Hlaup",
+        "time": "00:05:46",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:56"
+        "label": "Róður",
+        "time": "00:04:56",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:48"
+        "label": "Hlaup",
+        "time": "00:05:48",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:39"
+        "label": "Bændaganga",
+        "time": "00:02:39",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:38"
+        "label": "Hlaup",
+        "time": "00:05:38",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:33"
+        "label": "Dumbell lovers",
+        "time": "00:04:33",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:18"
+        "label": "Hlaup",
+        "time": "00:05:18",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:09"
+        "label": "Wall Balls",
+        "time": "00:04:09",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1594,68 +1904,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:56"
+        "label": "Hlaup",
+        "time": "00:04:56",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:15"
+        "label": "Ski-Erg",
+        "time": "00:04:15",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:25"
+        "label": "Hlaup",
+        "time": "00:05:25",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:56"
+        "label": "Ýta sleða",
+        "time": "00:02:56",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:42"
+        "label": "Hlaup",
+        "time": "00:05:42",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:12"
+        "label": "Draga sleða",
+        "time": "00:03:12",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:51"
+        "label": "Hlaup",
+        "time": "00:05:51",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:07"
+        "label": "Burpee langstökk",
+        "time": "00:03:07",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:08"
+        "label": "Hlaup",
+        "time": "00:06:08",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:41"
+        "label": "Róður",
+        "time": "00:04:41",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:46"
+        "label": "Hlaup",
+        "time": "00:05:46",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:47"
+        "label": "Bændaganga",
+        "time": "00:02:47",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:44"
+        "label": "Dumbell lovers",
+        "time": "00:05:44",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:07"
+        "label": "Hlaup",
+        "time": "00:06:07",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:49"
+        "label": "Wall Balls",
+        "time": "00:04:49",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK PRO"
@@ -1675,68 +2001,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:09"
+        "label": "Hlaup",
+        "time": "00:04:09",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:06"
+        "label": "Ski-Erg",
+        "time": "00:04:06",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:14"
+        "label": "Hlaup",
+        "time": "00:04:14",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:10"
+        "label": "Ýta sleða",
+        "time": "00:02:10",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:38"
+        "label": "Hlaup",
+        "time": "00:04:38",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:22"
+        "label": "Draga sleða",
+        "time": "00:02:22",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:26"
+        "label": "Burpee langstökk",
+        "time": "00:02:26",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:48"
+        "label": "Hlaup",
+        "time": "00:04:48",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:10"
+        "label": "Róður",
+        "time": "00:04:10",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:36"
+        "label": "Hlaup",
+        "time": "00:04:36",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:23"
+        "label": "Bændaganga",
+        "time": "00:02:23",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:41"
+        "label": "Hlaup",
+        "time": "00:04:41",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:50"
+        "label": "Dumbell lovers",
+        "time": "00:02:50",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:37"
+        "label": "Wall Balls",
+        "time": "00:03:37",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK OPEN"
@@ -1756,68 +2098,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:30"
+        "label": "Ski-Erg",
+        "time": "00:04:30",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:56"
+        "label": "Hlaup",
+        "time": "00:04:56",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:53"
+        "label": "Ýta sleða",
+        "time": "00:01:53",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:18"
+        "label": "Hlaup",
+        "time": "00:06:18",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:43"
+        "label": "Draga sleða",
+        "time": "00:03:43",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:01"
+        "label": "Hlaup",
+        "time": "00:06:01",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:16"
+        "label": "Burpee langstökk",
+        "time": "00:03:16",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:18"
+        "label": "Hlaup",
+        "time": "00:06:18",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:34"
+        "label": "Róður",
+        "time": "00:04:34",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:43"
+        "label": "Hlaup",
+        "time": "00:05:43",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:24"
+        "label": "Bændaganga",
+        "time": "00:02:24",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:54"
+        "label": "Dumbell lovers",
+        "time": "00:04:54",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:52"
+        "label": "Hlaup",
+        "time": "00:05:52",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:18"
+        "label": "Wall Balls",
+        "time": "00:04:18",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK OPEN"
@@ -1837,64 +2195,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:09:48"
+        "label": "Hlaup",
+        "time": "00:09:48",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:05:09"
+        "label": "Ski-Erg",
+        "time": "00:05:09",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:02:19"
+        "label": "Hlaup",
+        "time": "00:02:19",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:06:56"
+        "label": "Ýta sleða",
+        "time": "00:06:56",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:24"
+        "label": "Hlaup",
+        "time": "00:04:24",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:06:26"
+        "label": "Draga sleða",
+        "time": "00:06:26",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:03:30"
+        "label": "Hlaup",
+        "time": "00:03:30",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:06:55"
+        "label": "Burpee langstökk",
+        "time": "00:06:55",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:12"
+        "label": "Hlaup",
+        "time": "00:05:12",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:06:26"
+        "label": "Róður",
+        "time": "00:06:26",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:03:37"
+        "label": "Hlaup",
+        "time": "00:03:37",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:52"
+        "label": "Bændaganga",
+        "time": "00:05:52",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:06"
+        "label": "Hlaup",
+        "time": "00:04:06",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:50"
+        "label": "Dumbell lovers",
+        "time": "00:05:50",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:59"
+        "label": "Hlaup",
+        "time": "00:04:59",
+        "order": 15
       }
     ],
     "Category": "Parakeppni KK OPEN"
@@ -1914,68 +2287,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:22"
+        "label": "Hlaup",
+        "time": "00:04:22",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:28"
+        "label": "Ski-Erg",
+        "time": "00:04:28",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:42"
+        "label": "Ýta sleða",
+        "time": "00:02:42",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:41"
+        "label": "Hlaup",
+        "time": "00:05:41",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:19"
+        "label": "Draga sleða",
+        "time": "00:04:19",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:33"
+        "label": "Hlaup",
+        "time": "00:06:33",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:05:21"
+        "label": "Burpee langstökk",
+        "time": "00:05:21",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:20"
+        "label": "Hlaup",
+        "time": "00:06:20",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:26"
+        "label": "Róður",
+        "time": "00:05:26",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:42"
+        "label": "Hlaup",
+        "time": "00:05:42",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:27"
+        "label": "Bændaganga",
+        "time": "00:03:27",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:44"
+        "label": "Hlaup",
+        "time": "00:05:44",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:06:41"
+        "label": "Dumbell lovers",
+        "time": "00:06:41",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:41"
+        "label": "Hlaup",
+        "time": "00:05:41",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:05:56"
+        "label": "Wall Balls",
+        "time": "00:05:56",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK OPEN"
@@ -1995,68 +2384,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:52"
+        "label": "Hlaup",
+        "time": "00:04:52",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:39"
+        "label": "Ski-Erg",
+        "time": "00:04:39",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:06:13"
+        "label": "Hlaup",
+        "time": "00:06:13",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:16"
+        "label": "Ýta sleða",
+        "time": "00:02:16",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:09:00"
+        "label": "Hlaup",
+        "time": "00:09:00",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:36"
+        "label": "Draga sleða",
+        "time": "00:03:36",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:07:51"
+        "label": "Hlaup",
+        "time": "00:07:51",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:12"
+        "label": "Burpee langstökk",
+        "time": "00:03:12",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:08:29"
+        "label": "Hlaup",
+        "time": "00:08:29",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:32"
+        "label": "Róður",
+        "time": "00:05:32",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:35"
+        "label": "Hlaup",
+        "time": "00:06:35",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:50"
+        "label": "Bændaganga",
+        "time": "00:02:50",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:52"
+        "label": "Hlaup",
+        "time": "00:06:52",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:43"
+        "label": "Dumbell lovers",
+        "time": "00:04:43",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:51"
+        "label": "Hlaup",
+        "time": "00:06:51",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:49"
+        "label": "Wall Balls",
+        "time": "00:04:49",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KK OPEN"
@@ -2076,68 +2481,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:29"
+        "label": "Hlaup",
+        "time": "00:04:29",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:43"
+        "label": "Ski-Erg",
+        "time": "00:04:43",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:02"
+        "label": "Ýta sleða",
+        "time": "00:02:02",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:04"
+        "label": "Draga sleða",
+        "time": "00:04:04",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:15"
+        "label": "Hlaup",
+        "time": "00:05:15",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:12"
+        "label": "Burpee langstökk",
+        "time": "00:03:12",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:13"
+        "label": "Hlaup",
+        "time": "00:05:13",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:30"
+        "label": "Róður",
+        "time": "00:04:30",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:25"
+        "label": "Bændaganga",
+        "time": "00:02:25",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:03"
+        "label": "Hlaup",
+        "time": "00:05:03",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:58"
+        "label": "Dumbell lovers",
+        "time": "00:02:58",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:51"
+        "label": "Wall Balls",
+        "time": "00:03:51",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2157,68 +2578,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:42"
+        "label": "Ski-Erg",
+        "time": "00:04:42",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:28"
+        "label": "Ýta sleða",
+        "time": "00:02:28",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:18"
+        "label": "Hlaup",
+        "time": "00:05:18",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:17"
+        "label": "Draga sleða",
+        "time": "00:04:17",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:04"
+        "label": "Burpee langstökk",
+        "time": "00:03:04",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:40"
+        "label": "Róður",
+        "time": "00:04:40",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:28"
+        "label": "Hlaup",
+        "time": "00:05:28",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:31"
+        "label": "Bændaganga",
+        "time": "00:02:31",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:55"
+        "label": "Dumbell lovers",
+        "time": "00:02:55",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:17"
+        "label": "Hlaup",
+        "time": "00:05:17",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:01"
+        "label": "Wall Balls",
+        "time": "00:04:01",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2238,64 +2675,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:47"
+        "label": "Ski-Erg",
+        "time": "00:04:47",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:36"
+        "label": "Hlaup",
+        "time": "00:04:36",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:25"
+        "label": "Ýta sleða",
+        "time": "00:02:25",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:02"
+        "label": "Hlaup",
+        "time": "00:05:02",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:45"
+        "label": "Draga sleða",
+        "time": "00:05:45",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:04"
+        "label": "Burpee langstökk",
+        "time": "00:03:04",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:02"
+        "label": "Róður",
+        "time": "00:05:02",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:07"
+        "label": "Hlaup",
+        "time": "00:05:07",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:09"
+        "label": "Bændaganga",
+        "time": "00:03:09",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:08:03"
+        "label": "Hlaup",
+        "time": "00:08:03",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:01"
+        "label": "Dumbell lovers",
+        "time": "00:05:01",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:05"
+        "label": "Hlaup",
+        "time": "00:04:05",
+        "order": 15
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2315,56 +2767,69 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:42"
+        "label": "Ski-Erg",
+        "time": "00:04:42",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:03:09"
+        "label": "Hlaup",
+        "time": "00:03:09",
+        "order": 3
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:03:09"
+        "label": "Hlaup",
+        "time": "00:03:09",
+        "order": 4
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:09:38"
+        "label": "Burpee langstökk",
+        "time": "00:09:38",
+        "order": 5
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 6
       },
       {
-        "label": "1. Róður",
-        "time": "00:02:50"
+        "label": "Róður",
+        "time": "00:02:50",
+        "order": 7
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:28"
+        "label": "Hlaup",
+        "time": "00:05:28",
+        "order": 8
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:04:36"
+        "label": "Bændaganga",
+        "time": "00:04:36",
+        "order": 9
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:13"
+        "label": "Hlaup",
+        "time": "00:05:13",
+        "order": 10
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:46"
+        "label": "Dumbell lovers",
+        "time": "00:02:46",
+        "order": 11
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:12"
+        "label": "Hlaup",
+        "time": "00:05:12",
+        "order": 12
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:12:34"
+        "label": "Wall Balls",
+        "time": "00:12:34",
+        "order": 13
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2384,68 +2849,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:37"
+        "label": "Ski-Erg",
+        "time": "00:04:37",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:29"
+        "label": "Ýta sleða",
+        "time": "00:02:29",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:03"
+        "label": "Draga sleða",
+        "time": "00:05:03",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:05"
+        "label": "Burpee langstökk",
+        "time": "00:03:05",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:01:05"
+        "label": "Hlaup",
+        "time": "00:01:05",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:16"
+        "label": "Róður",
+        "time": "00:04:16",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:36"
+        "label": "Hlaup",
+        "time": "00:04:36",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:23"
+        "label": "Bændaganga",
+        "time": "00:05:23",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:02:30"
+        "label": "Hlaup",
+        "time": "00:02:30",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:17"
+        "label": "Dumbell lovers",
+        "time": "00:05:17",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:44"
+        "label": "Hlaup",
+        "time": "00:03:44",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:08:52"
+        "label": "Wall Balls",
+        "time": "00:08:52",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2465,68 +2946,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:37"
+        "label": "Hlaup",
+        "time": "00:04:37",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:49"
+        "label": "Ski-Erg",
+        "time": "00:04:49",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:37"
+        "label": "Hlaup",
+        "time": "00:04:37",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:03:04"
+        "label": "Ýta sleða",
+        "time": "00:03:04",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:05"
+        "label": "Draga sleða",
+        "time": "00:05:05",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:13"
+        "label": "Burpee langstökk",
+        "time": "00:03:13",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:00"
+        "label": "Róður",
+        "time": "00:05:00",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:24"
+        "label": "Bændaganga",
+        "time": "00:03:24",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:59"
+        "label": "Hlaup",
+        "time": "00:04:59",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:24"
+        "label": "Dumbell lovers",
+        "time": "00:04:24",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:56"
+        "label": "Hlaup",
+        "time": "00:04:56",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:12"
+        "label": "Wall Balls",
+        "time": "00:04:12",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2546,68 +3043,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:13"
+        "label": "Ski-Erg",
+        "time": "00:04:13",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:08"
+        "label": "Hlaup",
+        "time": "00:05:08",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:02"
+        "label": "Ýta sleða",
+        "time": "00:02:02",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:00"
+        "label": "Hlaup",
+        "time": "00:06:00",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:33"
+        "label": "Draga sleða",
+        "time": "00:03:33",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:45"
+        "label": "Burpee langstökk",
+        "time": "00:02:45",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:35"
+        "label": "Róður",
+        "time": "00:04:35",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:38"
+        "label": "Hlaup",
+        "time": "00:05:38",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:42"
+        "label": "Bændaganga",
+        "time": "00:02:42",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:53"
+        "label": "Hlaup",
+        "time": "00:05:53",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:43"
+        "label": "Dumbell lovers",
+        "time": "00:03:43",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:31"
+        "label": "Hlaup",
+        "time": "00:05:31",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:01"
+        "label": "Wall Balls",
+        "time": "00:04:01",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2627,68 +3140,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:50"
+        "label": "Ski-Erg",
+        "time": "00:04:50",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:24"
+        "label": "Ýta sleða",
+        "time": "00:02:24",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:57"
+        "label": "Hlaup",
+        "time": "00:05:57",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:13"
+        "label": "Draga sleða",
+        "time": "00:05:13",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:00"
+        "label": "Hlaup",
+        "time": "00:06:00",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:03"
+        "label": "Burpee langstökk",
+        "time": "00:03:03",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:49"
+        "label": "Hlaup",
+        "time": "00:05:49",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:50"
+        "label": "Róður",
+        "time": "00:04:50",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:17"
+        "label": "Bændaganga",
+        "time": "00:03:17",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:43"
+        "label": "Hlaup",
+        "time": "00:05:43",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:35"
+        "label": "Dumbell lovers",
+        "time": "00:02:35",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:16"
+        "label": "Wall Balls",
+        "time": "00:04:16",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2708,68 +3237,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:56"
+        "label": "Ski-Erg",
+        "time": "00:04:56",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:14"
+        "label": "Ýta sleða",
+        "time": "00:02:14",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:53"
+        "label": "Draga sleða",
+        "time": "00:05:53",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:46"
+        "label": "Hlaup",
+        "time": "00:05:46",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:02"
+        "label": "Burpee langstökk",
+        "time": "00:03:02",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:48"
+        "label": "Hlaup",
+        "time": "00:05:48",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:56"
+        "label": "Róður",
+        "time": "00:04:56",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:27"
+        "label": "Hlaup",
+        "time": "00:05:27",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:46"
+        "label": "Bændaganga",
+        "time": "00:02:46",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:20"
+        "label": "Dumbell lovers",
+        "time": "00:04:20",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:02"
+        "label": "Wall Balls",
+        "time": "00:04:02",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2789,68 +3334,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:55"
+        "label": "Ski-Erg",
+        "time": "00:04:55",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:29"
+        "label": "Hlaup",
+        "time": "00:04:29",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:56"
+        "label": "Ýta sleða",
+        "time": "00:02:56",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:22"
+        "label": "Hlaup",
+        "time": "00:05:22",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:06:09"
+        "label": "Draga sleða",
+        "time": "00:06:09",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:17"
+        "label": "Hlaup",
+        "time": "00:05:17",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:00"
+        "label": "Burpee langstökk",
+        "time": "00:03:00",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:11"
+        "label": "Róður",
+        "time": "00:05:11",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:31"
+        "label": "Hlaup",
+        "time": "00:05:31",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:21"
+        "label": "Bændaganga",
+        "time": "00:03:21",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:31"
+        "label": "Hlaup",
+        "time": "00:05:31",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:11"
+        "label": "Dumbell lovers",
+        "time": "00:04:11",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:11"
+        "label": "Hlaup",
+        "time": "00:05:11",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:47"
+        "label": "Wall Balls",
+        "time": "00:03:47",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2870,68 +3431,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:43"
+        "label": "Hlaup",
+        "time": "00:05:43",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:52"
+        "label": "Ski-Erg",
+        "time": "00:04:52",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:06:48"
+        "label": "Hlaup",
+        "time": "00:06:48",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:23"
+        "label": "Ýta sleða",
+        "time": "00:02:23",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:07:28"
+        "label": "Hlaup",
+        "time": "00:07:28",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:47"
+        "label": "Draga sleða",
+        "time": "00:04:47",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:07:12"
+        "label": "Hlaup",
+        "time": "00:07:12",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:31"
+        "label": "Burpee langstökk",
+        "time": "00:04:31",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:49"
+        "label": "Hlaup",
+        "time": "00:06:49",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:55"
+        "label": "Róður",
+        "time": "00:04:55",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:47"
+        "label": "Hlaup",
+        "time": "00:06:47",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:09"
+        "label": "Bændaganga",
+        "time": "00:03:09",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:07:06"
+        "label": "Hlaup",
+        "time": "00:07:06",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:44"
+        "label": "Dumbell lovers",
+        "time": "00:04:44",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:53"
+        "label": "Hlaup",
+        "time": "00:06:53",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:27"
+        "label": "Wall Balls",
+        "time": "00:04:27",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK PRO"
@@ -2951,68 +3528,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:14"
+        "label": "Hlaup",
+        "time": "00:04:14",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:47"
+        "label": "Ski-Erg",
+        "time": "00:04:47",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:47"
+        "label": "Ýta sleða",
+        "time": "00:01:47",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:35"
+        "label": "Hlaup",
+        "time": "00:04:35",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:22"
+        "label": "Draga sleða",
+        "time": "00:04:22",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:26"
+        "label": "Hlaup",
+        "time": "00:04:26",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:53"
+        "label": "Burpee langstökk",
+        "time": "00:02:53",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:30"
+        "label": "Hlaup",
+        "time": "00:04:30",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:40"
+        "label": "Róður",
+        "time": "00:04:40",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:23"
+        "label": "Hlaup",
+        "time": "00:04:23",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:21"
+        "label": "Bændaganga",
+        "time": "00:02:21",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:26"
+        "label": "Hlaup",
+        "time": "00:04:26",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:02"
+        "label": "Dumbell lovers",
+        "time": "00:03:02",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:25"
+        "label": "Hlaup",
+        "time": "00:04:25",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:35"
+        "label": "Wall Balls",
+        "time": "00:03:35",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3032,68 +3625,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:14"
+        "label": "Hlaup",
+        "time": "00:04:14",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:45"
+        "label": "Ski-Erg",
+        "time": "00:04:45",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:01:02"
+        "label": "Hlaup",
+        "time": "00:01:02",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:03:53"
+        "label": "Ýta sleða",
+        "time": "00:03:53",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:02:04"
+        "label": "Hlaup",
+        "time": "00:02:04",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:07"
+        "label": "Draga sleða",
+        "time": "00:05:07",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:12"
+        "label": "Hlaup",
+        "time": "00:04:12",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:05:16"
+        "label": "Burpee langstökk",
+        "time": "00:05:16",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:03:28"
+        "label": "Hlaup",
+        "time": "00:03:28",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:30"
+        "label": "Róður",
+        "time": "00:05:30",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:11"
+        "label": "Bændaganga",
+        "time": "00:05:11",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:02:39"
+        "label": "Hlaup",
+        "time": "00:02:39",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:36"
+        "label": "Dumbell lovers",
+        "time": "00:05:36",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:21"
+        "label": "Hlaup",
+        "time": "00:03:21",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:09:09"
+        "label": "Wall Balls",
+        "time": "00:09:09",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3113,56 +3722,69 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:31"
+        "label": "Hlaup",
+        "time": "00:04:31",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:43"
+        "label": "Ski-Erg",
+        "time": "00:04:43",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:14"
+        "label": "Hlaup",
+        "time": "00:05:14",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:07:31"
+        "label": "Ýta sleða",
+        "time": "00:07:31",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:03:49"
+        "label": "Hlaup",
+        "time": "00:03:49",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:18"
+        "label": "Draga sleða",
+        "time": "00:05:18",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:03:59"
+        "label": "Hlaup",
+        "time": "00:03:59",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:10:26"
+        "label": "Burpee langstökk",
+        "time": "00:10:26",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:17"
+        "label": "Hlaup",
+        "time": "00:05:17",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:02:32"
+        "label": "Róður",
+        "time": "00:02:32",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:09:31"
+        "label": "Hlaup",
+        "time": "00:09:31",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:16"
+        "label": "Bændaganga",
+        "time": "00:05:16",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 13
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3182,68 +3804,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:05:08"
+        "label": "Ski-Erg",
+        "time": "00:05:08",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:14"
+        "label": "Hlaup",
+        "time": "00:05:14",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:01"
+        "label": "Ýta sleða",
+        "time": "00:02:01",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:30"
+        "label": "Hlaup",
+        "time": "00:05:30",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:19"
+        "label": "Draga sleða",
+        "time": "00:04:19",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:31"
+        "label": "Hlaup",
+        "time": "00:05:31",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:00"
+        "label": "Burpee langstökk",
+        "time": "00:04:00",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:13"
+        "label": "Róður",
+        "time": "00:05:13",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:05"
+        "label": "Bændaganga",
+        "time": "00:03:05",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:17"
+        "label": "Hlaup",
+        "time": "00:05:17",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:24"
+        "label": "Dumbell lovers",
+        "time": "00:03:24",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:08"
+        "label": "Hlaup",
+        "time": "00:05:08",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:41"
+        "label": "Wall Balls",
+        "time": "00:03:41",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3263,68 +3901,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:02"
+        "label": "Hlaup",
+        "time": "00:05:02",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:34"
+        "label": "Ski-Erg",
+        "time": "00:04:34",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:41"
+        "label": "Hlaup",
+        "time": "00:05:41",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:07"
+        "label": "Ýta sleða",
+        "time": "00:02:07",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:03"
+        "label": "Hlaup",
+        "time": "00:06:03",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:08"
+        "label": "Draga sleða",
+        "time": "00:03:08",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:06"
+        "label": "Hlaup",
+        "time": "00:06:06",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:58"
+        "label": "Burpee langstökk",
+        "time": "00:03:58",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:10"
+        "label": "Hlaup",
+        "time": "00:06:10",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:05"
+        "label": "Róður",
+        "time": "00:05:05",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:50"
+        "label": "Hlaup",
+        "time": "00:05:50",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:42"
+        "label": "Bændaganga",
+        "time": "00:02:42",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:47"
+        "label": "Hlaup",
+        "time": "00:05:47",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:36"
+        "label": "Dumbell lovers",
+        "time": "00:03:36",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:49"
+        "label": "Hlaup",
+        "time": "00:05:49",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:50"
+        "label": "Wall Balls",
+        "time": "00:03:50",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3344,60 +3998,74 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:43"
+        "label": "Ski-Erg",
+        "time": "00:04:43",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:30"
+        "label": "Hlaup",
+        "time": "00:05:30",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:51"
+        "label": "Ýta sleða",
+        "time": "00:01:51",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:10:43"
+        "label": "Hlaup",
+        "time": "00:10:43",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:07:02"
+        "label": "Draga sleða",
+        "time": "00:07:02",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:03:32"
+        "label": "Hlaup",
+        "time": "00:03:32",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:06:04"
+        "label": "Burpee langstökk",
+        "time": "00:06:04",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:11"
+        "label": "Hlaup",
+        "time": "00:05:11",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:57"
+        "label": "Róður",
+        "time": "00:05:57",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:02:36"
+        "label": "Hlaup",
+        "time": "00:02:36",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:43"
+        "label": "Bændaganga",
+        "time": "00:05:43",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:08:58"
+        "label": "Hlaup",
+        "time": "00:08:58",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:54"
+        "label": "Dumbell lovers",
+        "time": "00:03:54",
+        "order": 14
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3417,68 +4085,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:32"
+        "label": "Hlaup",
+        "time": "00:05:32",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:37"
+        "label": "Ski-Erg",
+        "time": "00:04:37",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:06:03"
+        "label": "Hlaup",
+        "time": "00:06:03",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:50"
+        "label": "Ýta sleða",
+        "time": "00:01:50",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:39"
+        "label": "Hlaup",
+        "time": "00:06:39",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:30"
+        "label": "Draga sleða",
+        "time": "00:03:30",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:56"
+        "label": "Hlaup",
+        "time": "00:06:56",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:57"
+        "label": "Burpee langstökk",
+        "time": "00:02:57",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:39"
+        "label": "Hlaup",
+        "time": "00:06:39",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:59"
+        "label": "Róður",
+        "time": "00:04:59",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:23"
+        "label": "Hlaup",
+        "time": "00:06:23",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:47"
+        "label": "Bændaganga",
+        "time": "00:02:47",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:16"
+        "label": "Hlaup",
+        "time": "00:06:16",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:33"
+        "label": "Dumbell lovers",
+        "time": "00:02:33",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:25"
+        "label": "Wall Balls",
+        "time": "00:03:25",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3498,64 +4182,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:59"
+        "label": "Hlaup",
+        "time": "00:04:59",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:31"
+        "label": "Ski-Erg",
+        "time": "00:04:31",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:27"
+        "label": "Hlaup",
+        "time": "00:05:27",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:57"
+        "label": "Ýta sleða",
+        "time": "00:01:57",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:47"
+        "label": "Hlaup",
+        "time": "00:05:47",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:13"
+        "label": "Draga sleða",
+        "time": "00:03:13",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:52"
+        "label": "Hlaup",
+        "time": "00:05:52",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:41"
+        "label": "Burpee langstökk",
+        "time": "00:04:41",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:22"
+        "label": "Hlaup",
+        "time": "00:06:22",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:03"
+        "label": "Róður",
+        "time": "00:05:03",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:02"
+        "label": "Hlaup",
+        "time": "00:06:02",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:02"
+        "label": "Bændaganga",
+        "time": "00:03:02",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:54"
+        "label": "Hlaup",
+        "time": "00:05:54",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:07"
+        "label": "Dumbell lovers",
+        "time": "00:04:07",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:10:32"
+        "label": "Hlaup",
+        "time": "00:10:32",
+        "order": 15
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3575,68 +4274,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:20"
+        "label": "Hlaup",
+        "time": "00:05:20",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:37"
+        "label": "Ski-Erg",
+        "time": "00:04:37",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:47"
+        "label": "Hlaup",
+        "time": "00:05:47",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:01"
+        "label": "Ýta sleða",
+        "time": "00:02:01",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:10"
+        "label": "Hlaup",
+        "time": "00:06:10",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:35"
+        "label": "Draga sleða",
+        "time": "00:03:35",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:22"
+        "label": "Burpee langstökk",
+        "time": "00:04:22",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:31"
+        "label": "Hlaup",
+        "time": "00:06:31",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:07"
+        "label": "Róður",
+        "time": "00:05:07",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:32"
+        "label": "Hlaup",
+        "time": "00:06:32",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:16"
+        "label": "Bændaganga",
+        "time": "00:03:16",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:16"
+        "label": "Hlaup",
+        "time": "00:06:16",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:54"
+        "label": "Dumbell lovers",
+        "time": "00:03:54",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:11"
+        "label": "Hlaup",
+        "time": "00:06:11",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:03"
+        "label": "Wall Balls",
+        "time": "00:04:03",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3656,68 +4371,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:41"
+        "label": "Hlaup",
+        "time": "00:04:41",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:05:27"
+        "label": "Ski-Erg",
+        "time": "00:05:27",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:24"
+        "label": "Hlaup",
+        "time": "00:05:24",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:15"
+        "label": "Ýta sleða",
+        "time": "00:02:15",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:58"
+        "label": "Hlaup",
+        "time": "00:05:58",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:08"
+        "label": "Draga sleða",
+        "time": "00:04:08",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:12"
+        "label": "Hlaup",
+        "time": "00:06:12",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:11"
+        "label": "Burpee langstökk",
+        "time": "00:04:11",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:17"
+        "label": "Hlaup",
+        "time": "00:06:17",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:32"
+        "label": "Róður",
+        "time": "00:05:32",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:17"
+        "label": "Hlaup",
+        "time": "00:06:17",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:08"
+        "label": "Bændaganga",
+        "time": "00:03:08",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:57"
+        "label": "Hlaup",
+        "time": "00:05:57",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:16"
+        "label": "Dumbell lovers",
+        "time": "00:04:16",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:48"
+        "label": "Hlaup",
+        "time": "00:05:48",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:41"
+        "label": "Wall Balls",
+        "time": "00:04:41",
+        "order": 16
       }
     ],
     "Category": "Parakeppni KVK OPEN"
@@ -3737,68 +4468,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:02"
+        "label": "Hlaup",
+        "time": "00:04:02",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:13"
+        "label": "Ski-Erg",
+        "time": "00:04:13",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:04"
+        "label": "Ýta sleða",
+        "time": "00:02:04",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:23"
+        "label": "Draga sleða",
+        "time": "00:02:23",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:10"
+        "label": "Burpee langstökk",
+        "time": "00:02:10",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:03:59"
+        "label": "Róður",
+        "time": "00:03:59",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:41"
+        "label": "Hlaup",
+        "time": "00:04:41",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:08"
+        "label": "Bændaganga",
+        "time": "00:02:08",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:39"
+        "label": "Hlaup",
+        "time": "00:04:39",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:02:55"
+        "label": "Dumbell lovers",
+        "time": "00:02:55",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:37"
+        "label": "Wall Balls",
+        "time": "00:03:37",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -3818,68 +4565,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:13"
+        "label": "Hlaup",
+        "time": "00:04:13",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:02"
+        "label": "Ski-Erg",
+        "time": "00:04:02",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:39"
+        "label": "Ýta sleða",
+        "time": "00:01:39",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:34"
+        "label": "Draga sleða",
+        "time": "00:02:34",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:53"
+        "label": "Burpee langstökk",
+        "time": "00:02:53",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:57"
+        "label": "Hlaup",
+        "time": "00:04:57",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:04"
+        "label": "Róður",
+        "time": "00:04:04",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:19"
+        "label": "Bændaganga",
+        "time": "00:02:19",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:49"
+        "label": "Hlaup",
+        "time": "00:04:49",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:12"
+        "label": "Dumbell lovers",
+        "time": "00:03:12",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:40"
+        "label": "Hlaup",
+        "time": "00:04:40",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:32"
+        "label": "Wall Balls",
+        "time": "00:03:32",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -3899,64 +4662,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:20"
+        "label": "Hlaup",
+        "time": "00:04:20",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:21"
+        "label": "Ski-Erg",
+        "time": "00:04:21",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:40"
+        "label": "Ýta sleða",
+        "time": "00:01:40",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:48"
+        "label": "Hlaup",
+        "time": "00:04:48",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:32"
+        "label": "Draga sleða",
+        "time": "00:03:32",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:56"
+        "label": "Hlaup",
+        "time": "00:04:56",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:43"
+        "label": "Burpee langstökk",
+        "time": "00:02:43",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:04:56"
+        "label": "Hlaup",
+        "time": "00:04:56",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:36"
+        "label": "Róður",
+        "time": "00:04:36",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:36"
+        "label": "Bændaganga",
+        "time": "00:02:36",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:07:11"
+        "label": "Hlaup",
+        "time": "00:07:11",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:35"
+        "label": "Dumbell lovers",
+        "time": "00:04:35",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:41"
+        "label": "Hlaup",
+        "time": "00:03:41",
+        "order": 15
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -3976,68 +4754,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:20"
+        "label": "Hlaup",
+        "time": "00:04:20",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:15"
+        "label": "Ski-Erg",
+        "time": "00:04:15",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:32"
+        "label": "Hlaup",
+        "time": "00:04:32",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:42"
+        "label": "Ýta sleða",
+        "time": "00:01:42",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:52"
+        "label": "Draga sleða",
+        "time": "00:02:52",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:38"
+        "label": "Burpee langstökk",
+        "time": "00:02:38",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:04"
+        "label": "Hlaup",
+        "time": "00:05:04",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:17"
+        "label": "Róður",
+        "time": "00:04:17",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:04:44"
+        "label": "Hlaup",
+        "time": "00:04:44",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:27"
+        "label": "Bændaganga",
+        "time": "00:02:27",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:25"
+        "label": "Hlaup",
+        "time": "00:04:25",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:02"
+        "label": "Dumbell lovers",
+        "time": "00:03:02",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:26"
+        "label": "Hlaup",
+        "time": "00:04:26",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:12"
+        "label": "Wall Balls",
+        "time": "00:04:12",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4057,68 +4851,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:44"
+        "label": "Hlaup",
+        "time": "00:04:44",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:21"
+        "label": "Ski-Erg",
+        "time": "00:04:21",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:52"
+        "label": "Hlaup",
+        "time": "00:04:52",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:11"
+        "label": "Ýta sleða",
+        "time": "00:02:11",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:07"
+        "label": "Hlaup",
+        "time": "00:05:07",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:19"
+        "label": "Draga sleða",
+        "time": "00:02:19",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:04"
+        "label": "Burpee langstökk",
+        "time": "00:03:04",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:26"
+        "label": "Hlaup",
+        "time": "00:05:26",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:23"
+        "label": "Róður",
+        "time": "00:04:23",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:46"
+        "label": "Bændaganga",
+        "time": "00:02:46",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:03"
+        "label": "Hlaup",
+        "time": "00:05:03",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:40"
+        "label": "Dumbell lovers",
+        "time": "00:03:40",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:06"
+        "label": "Hlaup",
+        "time": "00:05:06",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:07"
+        "label": "Wall Balls",
+        "time": "00:04:07",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4138,68 +4948,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:26"
+        "label": "Hlaup",
+        "time": "00:04:26",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:20"
+        "label": "Ski-Erg",
+        "time": "00:04:20",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:41"
+        "label": "Hlaup",
+        "time": "00:04:41",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:54"
+        "label": "Ýta sleða",
+        "time": "00:01:54",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:02"
+        "label": "Draga sleða",
+        "time": "00:04:02",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:25"
+        "label": "Hlaup",
+        "time": "00:05:25",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:59"
+        "label": "Burpee langstökk",
+        "time": "00:02:59",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:36"
+        "label": "Hlaup",
+        "time": "00:05:36",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:59"
+        "label": "Róður",
+        "time": "00:04:59",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:12"
+        "label": "Hlaup",
+        "time": "00:05:12",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:26"
+        "label": "Bændaganga",
+        "time": "00:02:26",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:21"
+        "label": "Dumbell lovers",
+        "time": "00:03:21",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:12"
+        "label": "Wall Balls",
+        "time": "00:04:12",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4219,68 +5045,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:27"
+        "label": "Hlaup",
+        "time": "00:04:27",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:28"
+        "label": "Ski-Erg",
+        "time": "00:04:28",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:42"
+        "label": "Hlaup",
+        "time": "00:04:42",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:10"
+        "label": "Ýta sleða",
+        "time": "00:02:10",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:19"
+        "label": "Draga sleða",
+        "time": "00:04:19",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:04:52"
+        "label": "Hlaup",
+        "time": "00:04:52",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:55"
+        "label": "Burpee langstökk",
+        "time": "00:02:55",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:07"
+        "label": "Hlaup",
+        "time": "00:05:07",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:48"
+        "label": "Róður",
+        "time": "00:04:48",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:09"
+        "label": "Hlaup",
+        "time": "00:05:09",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:24"
+        "label": "Bændaganga",
+        "time": "00:03:24",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:11"
+        "label": "Hlaup",
+        "time": "00:05:11",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:10"
+        "label": "Dumbell lovers",
+        "time": "00:03:10",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:00"
+        "label": "Wall Balls",
+        "time": "00:04:00",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4300,68 +5142,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:11"
+        "label": "Hlaup",
+        "time": "00:04:11",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:14"
+        "label": "Ski-Erg",
+        "time": "00:04:14",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:58"
+        "label": "Ýta sleða",
+        "time": "00:01:58",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:26"
+        "label": "Hlaup",
+        "time": "00:05:26",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:14"
+        "label": "Draga sleða",
+        "time": "00:03:14",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:33"
+        "label": "Hlaup",
+        "time": "00:05:33",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:12"
+        "label": "Burpee langstökk",
+        "time": "00:03:12",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:54"
+        "label": "Róður",
+        "time": "00:04:54",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:21"
+        "label": "Bændaganga",
+        "time": "00:03:21",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:23"
+        "label": "Dumbell lovers",
+        "time": "00:04:23",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:05"
+        "label": "Hlaup",
+        "time": "00:05:05",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:20"
+        "label": "Wall Balls",
+        "time": "00:04:20",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4381,64 +5239,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:34"
+        "label": "Hlaup",
+        "time": "00:04:34",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:13"
+        "label": "Ski-Erg",
+        "time": "00:04:13",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:52"
+        "label": "Hlaup",
+        "time": "00:04:52",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:33"
+        "label": "Ýta sleða",
+        "time": "00:01:33",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:22"
+        "label": "Hlaup",
+        "time": "00:05:22",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:10"
+        "label": "Draga sleða",
+        "time": "00:03:10",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:35"
+        "label": "Hlaup",
+        "time": "00:05:35",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:23"
+        "label": "Burpee langstökk",
+        "time": "00:03:23",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:09:58"
+        "label": "Hlaup",
+        "time": "00:09:58",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:32"
+        "label": "Róður",
+        "time": "00:05:32",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:02:39"
+        "label": "Hlaup",
+        "time": "00:02:39",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:05:20"
+        "label": "Bændaganga",
+        "time": "00:05:20",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:53"
+        "label": "Hlaup",
+        "time": "00:03:53",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:56"
+        "label": "Dumbell lovers",
+        "time": "00:05:56",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:03:58"
+        "label": "Hlaup",
+        "time": "00:03:58",
+        "order": 15
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4458,68 +5331,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:39"
+        "label": "Hlaup",
+        "time": "00:04:39",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:29"
+        "label": "Ski-Erg",
+        "time": "00:04:29",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:12"
+        "label": "Ýta sleða",
+        "time": "00:02:12",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:14"
+        "label": "Hlaup",
+        "time": "00:05:14",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:55"
+        "label": "Draga sleða",
+        "time": "00:03:55",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:01"
+        "label": "Hlaup",
+        "time": "00:05:01",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:02:54"
+        "label": "Burpee langstökk",
+        "time": "00:02:54",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:24"
+        "label": "Hlaup",
+        "time": "00:05:24",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:41"
+        "label": "Róður",
+        "time": "00:04:41",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:16"
+        "label": "Hlaup",
+        "time": "00:05:16",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:45"
+        "label": "Bændaganga",
+        "time": "00:02:45",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:16"
+        "label": "Hlaup",
+        "time": "00:05:16",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:47"
+        "label": "Dumbell lovers",
+        "time": "00:04:47",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:41"
+        "label": "Wall Balls",
+        "time": "00:04:41",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4539,68 +5428,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:47"
+        "label": "Hlaup",
+        "time": "00:04:47",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:27"
+        "label": "Ski-Erg",
+        "time": "00:04:27",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:59"
+        "label": "Hlaup",
+        "time": "00:04:59",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:08"
+        "label": "Ýta sleða",
+        "time": "00:02:08",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:17"
+        "label": "Hlaup",
+        "time": "00:05:17",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:25"
+        "label": "Draga sleða",
+        "time": "00:03:25",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:27"
+        "label": "Hlaup",
+        "time": "00:05:27",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:16"
+        "label": "Burpee langstökk",
+        "time": "00:03:16",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:30"
+        "label": "Hlaup",
+        "time": "00:05:30",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:41"
+        "label": "Róður",
+        "time": "00:04:41",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:33"
+        "label": "Hlaup",
+        "time": "00:05:33",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:38"
+        "label": "Bændaganga",
+        "time": "00:02:38",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:37"
+        "label": "Hlaup",
+        "time": "00:05:37",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:48"
+        "label": "Dumbell lovers",
+        "time": "00:03:48",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:14"
+        "label": "Wall Balls",
+        "time": "00:04:14",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4620,68 +5525,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:31"
+        "label": "Hlaup",
+        "time": "00:04:31",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:15"
+        "label": "Ski-Erg",
+        "time": "00:04:15",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:11"
+        "label": "Ýta sleða",
+        "time": "00:02:11",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:37"
+        "label": "Hlaup",
+        "time": "00:05:37",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:02:46"
+        "label": "Draga sleða",
+        "time": "00:02:46",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:56"
+        "label": "Hlaup",
+        "time": "00:05:56",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:23"
+        "label": "Burpee langstökk",
+        "time": "00:03:23",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:57"
+        "label": "Hlaup",
+        "time": "00:05:57",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:36"
+        "label": "Róður",
+        "time": "00:05:36",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:09"
+        "label": "Bændaganga",
+        "time": "00:03:09",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:25"
+        "label": "Hlaup",
+        "time": "00:06:25",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:02"
+        "label": "Dumbell lovers",
+        "time": "00:03:02",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:57"
+        "label": "Hlaup",
+        "time": "00:05:57",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:08"
+        "label": "Wall Balls",
+        "time": "00:04:08",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4701,64 +5622,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:39"
+        "label": "Hlaup",
+        "time": "00:04:39",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:53"
+        "label": "Ski-Erg",
+        "time": "00:04:53",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:53"
+        "label": "Hlaup",
+        "time": "00:04:53",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:14"
+        "label": "Ýta sleða",
+        "time": "00:02:14",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:16"
+        "label": "Hlaup",
+        "time": "00:05:16",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:34"
+        "label": "Draga sleða",
+        "time": "00:04:34",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:26"
+        "label": "Hlaup",
+        "time": "00:05:26",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:19"
+        "label": "Burpee langstökk",
+        "time": "00:03:19",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:46"
+        "label": "Hlaup",
+        "time": "00:05:46",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:21"
+        "label": "Róður",
+        "time": "00:05:21",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:13"
+        "label": "Hlaup",
+        "time": "00:05:13",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:50"
+        "label": "Bændaganga",
+        "time": "00:02:50",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:10:04"
+        "label": "Hlaup",
+        "time": "00:10:04",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:07"
+        "label": "Dumbell lovers",
+        "time": "00:05:07",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:08"
+        "label": "Hlaup",
+        "time": "00:04:08",
+        "order": 15
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4778,68 +5714,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:39"
+        "label": "Hlaup",
+        "time": "00:04:39",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:08"
+        "label": "Ski-Erg",
+        "time": "00:04:08",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:50"
+        "label": "Hlaup",
+        "time": "00:04:50",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:01:51"
+        "label": "Ýta sleða",
+        "time": "00:01:51",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:44"
+        "label": "Hlaup",
+        "time": "00:05:44",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:01"
+        "label": "Draga sleða",
+        "time": "00:03:01",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:55"
+        "label": "Hlaup",
+        "time": "00:05:55",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:43"
+        "label": "Burpee langstökk",
+        "time": "00:03:43",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:08"
+        "label": "Hlaup",
+        "time": "00:06:08",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:36"
+        "label": "Róður",
+        "time": "00:04:36",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:12"
+        "label": "Hlaup",
+        "time": "00:06:12",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:03:11"
+        "label": "Bændaganga",
+        "time": "00:03:11",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:03"
+        "label": "Hlaup",
+        "time": "00:06:03",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:30"
+        "label": "Dumbell lovers",
+        "time": "00:03:30",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:08"
+        "label": "Hlaup",
+        "time": "00:06:08",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:09"
+        "label": "Wall Balls",
+        "time": "00:04:09",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4859,68 +5811,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:05:03"
+        "label": "Ski-Erg",
+        "time": "00:05:03",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:03"
+        "label": "Hlaup",
+        "time": "00:05:03",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:12"
+        "label": "Ýta sleða",
+        "time": "00:02:12",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:20"
+        "label": "Hlaup",
+        "time": "00:05:20",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:04:29"
+        "label": "Draga sleða",
+        "time": "00:04:29",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:29"
+        "label": "Hlaup",
+        "time": "00:05:29",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:12"
+        "label": "Burpee langstökk",
+        "time": "00:03:12",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:24"
+        "label": "Hlaup",
+        "time": "00:05:24",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:19"
+        "label": "Róður",
+        "time": "00:05:19",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:34"
+        "label": "Hlaup",
+        "time": "00:05:34",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:35"
+        "label": "Bændaganga",
+        "time": "00:02:35",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:20"
+        "label": "Hlaup",
+        "time": "00:05:20",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:04:35"
+        "label": "Dumbell lovers",
+        "time": "00:04:35",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:21"
+        "label": "Hlaup",
+        "time": "00:05:21",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:37"
+        "label": "Wall Balls",
+        "time": "00:04:37",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -4940,68 +5908,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:38"
+        "label": "Hlaup",
+        "time": "00:04:38",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:49"
+        "label": "Ski-Erg",
+        "time": "00:04:49",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:55"
+        "label": "Hlaup",
+        "time": "00:04:55",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:22"
+        "label": "Ýta sleða",
+        "time": "00:02:22",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:27"
+        "label": "Hlaup",
+        "time": "00:05:27",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:05:49"
+        "label": "Draga sleða",
+        "time": "00:05:49",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:05:22"
+        "label": "Hlaup",
+        "time": "00:05:22",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:25"
+        "label": "Burpee langstökk",
+        "time": "00:03:25",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:05:37"
+        "label": "Hlaup",
+        "time": "00:05:37",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:05:13"
+        "label": "Róður",
+        "time": "00:05:13",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:18"
+        "label": "Hlaup",
+        "time": "00:05:18",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:58"
+        "label": "Bændaganga",
+        "time": "00:02:58",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:05:28"
+        "label": "Hlaup",
+        "time": "00:05:28",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:10"
+        "label": "Dumbell lovers",
+        "time": "00:05:10",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:05:24"
+        "label": "Hlaup",
+        "time": "00:05:24",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:34"
+        "label": "Wall Balls",
+        "time": "00:04:34",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -5021,64 +6005,79 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:00"
+        "label": "Hlaup",
+        "time": "00:05:00",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:38"
+        "label": "Ski-Erg",
+        "time": "00:04:38",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:04:54"
+        "label": "Hlaup",
+        "time": "00:04:54",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:13"
+        "label": "Ýta sleða",
+        "time": "00:02:13",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:40"
+        "label": "Hlaup",
+        "time": "00:06:40",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:22"
+        "label": "Draga sleða",
+        "time": "00:03:22",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:53"
+        "label": "Hlaup",
+        "time": "00:06:53",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:30"
+        "label": "Burpee langstökk",
+        "time": "00:03:30",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:28"
+        "label": "Hlaup",
+        "time": "00:06:28",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:53"
+        "label": "Róður",
+        "time": "00:04:53",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:05:29"
+        "label": "Hlaup",
+        "time": "00:05:29",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:09:28"
+        "label": "Bændaganga",
+        "time": "00:09:28",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:03:56"
+        "label": "Hlaup",
+        "time": "00:03:56",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:05:39"
+        "label": "Dumbell lovers",
+        "time": "00:05:39",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:04:01"
+        "label": "Hlaup",
+        "time": "00:04:01",
+        "order": 15
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -5098,68 +6097,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:04:51"
+        "label": "Hlaup",
+        "time": "00:04:51",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:25"
+        "label": "Ski-Erg",
+        "time": "00:04:25",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:26"
+        "label": "Hlaup",
+        "time": "00:05:26",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:11"
+        "label": "Ýta sleða",
+        "time": "00:02:11",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:05:49"
+        "label": "Hlaup",
+        "time": "00:05:49",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:14"
+        "label": "Draga sleða",
+        "time": "00:03:14",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:16"
+        "label": "Hlaup",
+        "time": "00:06:16",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:03:15"
+        "label": "Burpee langstökk",
+        "time": "00:03:15",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:47"
+        "label": "Hlaup",
+        "time": "00:06:47",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:41"
+        "label": "Róður",
+        "time": "00:04:41",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:29"
+        "label": "Hlaup",
+        "time": "00:06:29",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:34"
+        "label": "Bændaganga",
+        "time": "00:02:34",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:44"
+        "label": "Hlaup",
+        "time": "00:06:44",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:23"
+        "label": "Dumbell lovers",
+        "time": "00:03:23",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:49"
+        "label": "Hlaup",
+        "time": "00:06:49",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:04:20"
+        "label": "Wall Balls",
+        "time": "00:04:20",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"
@@ -5179,68 +6194,84 @@
     ],
     "Splits": [
       {
-        "label": "1. Hlaup",
-        "time": "00:05:02"
+        "label": "Hlaup",
+        "time": "00:05:02",
+        "order": 1
       },
       {
-        "label": "1. Ski-Erg",
-        "time": "00:04:19"
+        "label": "Ski-Erg",
+        "time": "00:04:19",
+        "order": 2
       },
       {
-        "label": "2. Hlaup",
-        "time": "00:05:39"
+        "label": "Hlaup",
+        "time": "00:05:39",
+        "order": 3
       },
       {
-        "label": "1. Ýta sleða",
-        "time": "00:02:01"
+        "label": "Ýta sleða",
+        "time": "00:02:01",
+        "order": 4
       },
       {
-        "label": "3. Hlaup",
-        "time": "00:06:11"
+        "label": "Hlaup",
+        "time": "00:06:11",
+        "order": 5
       },
       {
-        "label": "1. Draga sleða",
-        "time": "00:03:45"
+        "label": "Draga sleða",
+        "time": "00:03:45",
+        "order": 6
       },
       {
-        "label": "4. Hlaup",
-        "time": "00:06:16"
+        "label": "Hlaup",
+        "time": "00:06:16",
+        "order": 7
       },
       {
-        "label": "1. Burpee langstökk",
-        "time": "00:04:06"
+        "label": "Burpee langstökk",
+        "time": "00:04:06",
+        "order": 8
       },
       {
-        "label": "5. Hlaup",
-        "time": "00:06:20"
+        "label": "Hlaup",
+        "time": "00:06:20",
+        "order": 9
       },
       {
-        "label": "1. Róður",
-        "time": "00:04:39"
+        "label": "Róður",
+        "time": "00:04:39",
+        "order": 10
       },
       {
-        "label": "6. Hlaup",
-        "time": "00:06:04"
+        "label": "Hlaup",
+        "time": "00:06:04",
+        "order": 11
       },
       {
-        "label": "1. Bændaganga",
-        "time": "00:02:35"
+        "label": "Bændaganga",
+        "time": "00:02:35",
+        "order": 12
       },
       {
-        "label": "7. Hlaup",
-        "time": "00:06:23"
+        "label": "Hlaup",
+        "time": "00:06:23",
+        "order": 13
       },
       {
-        "label": "1. Dumbell lovers",
-        "time": "00:03:47"
+        "label": "Dumbell lovers",
+        "time": "00:03:47",
+        "order": 14
       },
       {
-        "label": "8. Hlaup",
-        "time": "00:06:23"
+        "label": "Hlaup",
+        "time": "00:06:23",
+        "order": 15
       },
       {
-        "label": "1. Wall Balls",
-        "time": "00:03:54"
+        "label": "Wall Balls",
+        "time": "00:03:54",
+        "order": 16
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri"

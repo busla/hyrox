@@ -50,18 +50,13 @@ def scrape_category(url):
             split_items = split_text.split(")")
             split_counter = {}
 
-            for item in split_items:
+            for i, item in enumerate(split_items):
                 if "(" in item:
                     label_time = item.split("(")
                     time = label_time[0].strip()
                     label = label_time[1].strip()
                     label = re.sub(r"[0-9.]", "", label).strip()
-                    if label not in split_counter:
-                        split_counter[label] = 1
-                    else:
-                        split_counter[label] += 1
-                    unique_label = f"{split_counter[label]}. {label}"
-                    splits.append({"label": unique_label, "time": time})
+                    splits.append({"label": label, "time": time, "order": i+1})
 
             teams.append(
                 {
