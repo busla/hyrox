@@ -96,13 +96,18 @@ def normalize_club_name(club: str) -> str:
         "CFRVK": "CFR",
         "CfRvk": "CFR",
         "CrossFit Reykjavík": "CFR",
+        "crossfit reykjavík": "CFR",
         "Cfr": "CFR",
         "CF RVK": "CFR",
         "Crossfit Reykjavík": "CFR",
         "Crossfit Reykjavik": "CFR",
         "Cfrvk": "CFR",
-        "CF RVK": "CFR",
         "cfr": "CFR",
+        "Mjönir:": "Mjönir",
+        "World Class": "WorldClass",
+        "Worldfit": "WorldFit",
+        "Grandi101": "Grandi 101",
+        "ULTRA form": "Ultraform",
     }
     return normalization_map.get(club, club)
 
@@ -114,6 +119,31 @@ df["NormalizedClubs"] = df["Club"].apply(
 
 # Explode the DataFrame for club visualization
 exploded_df = df.explode("NormalizedClubs")
+
+
+# Define a scoring system for ranks (e.g., inverse of rank)
+def calculate_points(rank):
+    return 1 / rank
+
+
+# Calculate points for each club
+exploded_df["Points"] = exploded_df["Rank"].apply(calculate_points)
+
+# Aggregate points for each club
+club_stats = (
+    exploded_df.groupby("NormalizedClubs")["Points"]
+    .agg(["sum", "count"])
+    .reset_index()
+    .rename(columns={"sum": "TotalPoints", "count": "TeamCount"})
+)
+
+# Calculate average points per team
+club_stats["AveragePoints"] = club_stats["TotalPoints"] / club_stats["TeamCount"]
+
+# Sort by total points and average points
+club_stats = club_stats.sort_values(
+    by=["TotalPoints", "AveragePoints"], ascending=False
+)
 
 # Get the list of categories
 categories = df["Category"].unique()
@@ -161,25 +191,19 @@ def render_split_comparison():
 
 # Function to render the club winners chart
 def render_club_winners():
-    selected_category = st.selectbox("Select a category", categories)
-
-    club_winners_df = exploded_df[exploded_df["Category"] == selected_category]
-
-    if not club_winners_df.empty:
-        st.write(f"Club Winners for {selected_category}")
-        club_winners_chart = px.bar(
-            club_winners_df,
-            x="NormalizedClubs",
-            y="Rank",
-            color="NormalizedClubs",
-            title=f"Club Winners for {selected_category}",
-            labels={"NormalizedClubs": "Club", "Rank": "Rank"},
-            hover_name="Team",
-            hover_data={"Rank": True, "Team": True},
-        )
-        st.plotly_chart(club_winners_chart)
-    else:
-        st.write("No data available for the selected category.")
+    st.write("Overall Club Winners")
+    st.dataframe(club_stats)
+    club_winners_chart = px.bar(
+        club_stats,
+        x="NormalizedClubs",
+        y="TotalPoints",
+        color="NormalizedClubs",
+        title="Overall Club Winners",
+        labels={"NormalizedClubs": "Club", "TotalPoints": "Total Points"},
+        hover_name="NormalizedClubs",
+        hover_data={"TotalPoints": True, "TeamCount": True, "AveragePoints": True},
+    )
+    st.plotly_chart(club_winners_chart)
 
 
 # Render the selected page
