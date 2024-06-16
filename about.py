@@ -26,4 +26,9 @@ def render_about():
         The split comparison chart shows the performance of teams in each split. Splits are normalized to ensure consistent ordering and labeling.
 
         We hope this app provides useful insights into the Hyrox competition results. If you have any questions or feedback, please let us know.
+
+        ### Author
+        
+        These charts were created by Jón Levy using Streamlit and Plotly from [these datasets](https://timataka.net/hyrox-06-2024/).
+        Source code can be found on [GitHub](https://github.com/busla/hyrox)
     """)
