@@ -3,64 +3,70 @@
     "Rank": "1",
     "BIB": "0103",
     "Team": "MAKE IT REIN",
-    "Members": ["Arnar Freyr Magnússon", "Steinar Þór Ólafsson"],
+    "Members": [
+      "Arnar Freyr Magnússon",
+      "Steinar Þór Ólafsson"
+    ],
     "Club": "Skúrinn",
-    "Time": ["00:56:48", "00:56:48"],
+    "Time": [
+      "00:56:48",
+      "00:56:48"
+    ],
     "Splits": [
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:20"
       },
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:06:51"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:05:02"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:03:20"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:56"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:03:11"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:54"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:28"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:56"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:08"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:04:47"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:02:51"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:29"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:15"
       }
     ],
@@ -70,68 +76,74 @@
     "Rank": "2",
     "BIB": "0107",
     "Team": "Frederik og Stefan",
-    "Members": ["Frederik", "Stefan"],
+    "Members": [
+      "Frederik",
+      "Stefan"
+    ],
     "Club": "CFR",
-    "Time": ["00:57:38", "00:57:36"],
+    "Time": [
+      "00:57:38",
+      "00:57:36"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:03:47"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:49"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:07"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:46"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:30"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:06:59"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:02:18"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:27"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:01"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:27"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:02:16"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:04:23"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:04"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:11"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:39"
       }
     ],
@@ -141,72 +153,78 @@
     "Rank": "3",
     "BIB": "0169",
     "Team": "DJ Sæbjúga Strikes Back",
-    "Members": ["Elmar Gunnarsson", "Hróðmar Jónsson"],
+    "Members": [
+      "Elmar Gunnarsson",
+      "Hróðmar Jónsson"
+    ],
     "Club": "CFRVK",
-    "Time": ["00:58:53", "00:58:51"],
+    "Time": [
+      "00:58:53",
+      "00:58:51"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:03:46"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:54"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:03:56"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:36"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:29"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:01:03"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:01:50"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:17"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:02:47"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:18"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:08"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:04:06"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:23"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:07"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:02:17"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:08:04"
       }
     ],
@@ -216,56 +234,62 @@
     "Rank": "4",
     "BIB": "0136",
     "Team": "Team HYBRD",
-    "Members": ["Magnús Aron Sigurðsson", "Birkir Örn Kristjánsson"],
+    "Members": [
+      "Magnús Aron Sigurðsson",
+      "Birkir Örn Kristjánsson"
+    ],
     "Club": "CFR",
-    "Time": ["00:59:15", "00:51:07"],
+    "Time": [
+      "00:59:15",
+      "00:51:07"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:14:21"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:52"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:02:07"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:04:43"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:02:03"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:08:31"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:33"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:25"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:41"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:02:49"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:36"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:40"
       }
     ],
@@ -275,72 +299,78 @@
     "Rank": "5",
     "BIB": "0126",
     "Team": "BÁ",
-    "Members": ["Ágúst Guðmundsson", "Bergur Vilhjalmsson"],
+    "Members": [
+      "Ágúst Guðmundsson",
+      "Bergur Vilhjalmsson"
+    ],
     "Club": "Reykjavík MMA",
-    "Time": ["00:59:43", "00:59:41"],
+    "Time": [
+      "00:59:43",
+      "00:59:41"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:00"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:02"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:08"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:04"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:37"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:51"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:25"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:25"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:01"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:31"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:22"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:32"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:28"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:50"
       }
     ],
@@ -350,72 +380,78 @@
     "Rank": "6",
     "BIB": "0177",
     "Team": "Synir Sigurjóns",
-    "Members": ["Hlynur Þór Þorleifsson", "Sigurþór Einarsson"],
+    "Members": [
+      "Hlynur Þór Þorleifsson",
+      "Sigurþór Einarsson"
+    ],
     "Club": "",
-    "Time": ["01:01:32", "01:01:29"],
+    "Time": [
+      "01:01:32",
+      "01:01:29"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:03:37"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:05"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:03:58"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:38"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:20"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:49"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:18"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:15"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:52"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:51"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:16"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:03"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:27"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:14"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:22"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:36"
       }
     ],
@@ -425,72 +461,78 @@
     "Rank": "7",
     "BIB": "0117",
     "Team": "Stóri og litli pabbi",
-    "Members": ["Kristinn Jens Bjartmarsson", "Snorri Sigurðarson"],
+    "Members": [
+      "Kristinn Jens Bjartmarsson",
+      "Snorri Sigurðarson"
+    ],
     "Club": "Hyrox Reykjavík",
-    "Time": ["01:01:51", "01:01:47"],
+    "Time": [
+      "01:01:51",
+      "01:01:47"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:18"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:03"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:33"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:54"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:35"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:34"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:04"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:39"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:20"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:45"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:29"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:35"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:43"
       }
     ],
@@ -500,64 +542,70 @@
     "Rank": "8",
     "BIB": "0140",
     "Team": "Raven and Jaguar",
-    "Members": ["Rökkvi Hrafn Guðnason", "Carlos Fernandez"],
+    "Members": [
+      "Rökkvi Hrafn Guðnason",
+      "Carlos Fernandez"
+    ],
     "Club": "CrossFit Reykjavík",
-    "Time": ["01:02:37", "01:02:00"],
+    "Time": [
+      "01:02:37",
+      "01:02:00"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:33"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:58"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:05"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:26"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:45"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:01:54"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:40"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:19"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:07:17"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:12"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:08:58"
       }
     ],
@@ -567,72 +615,78 @@
     "Rank": "9",
     "BIB": "0145",
     "Team": "GP",
-    "Members": ["Pedro Þór Roismann Guðmundsson", "Gunnar Snær Þórðarson"],
+    "Members": [
+      "Pedro Þór Roismann Guðmundsson",
+      "Gunnar Snær Þórðarson"
+    ],
     "Club": "Crossfit Sport",
-    "Time": ["01:02:53", "01:02:53"],
+    "Time": [
+      "01:02:53",
+      "01:02:53"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:00:05"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:06"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:01"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:04:15"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:02:24"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:38"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:03:28"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:32"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:02:37"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:42"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:08"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:04:30"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:57"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:42"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:02:41"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:08:15"
       }
     ],
@@ -642,72 +696,78 @@
     "Rank": "10",
     "BIB": "0174",
     "Team": "Mínus Maggi",
-    "Members": ["Ýmir Guðmundsson", "Finnbogi Þór Leifsson"],
+    "Members": [
+      "Ýmir Guðmundsson",
+      "Finnbogi Þór Leifsson"
+    ],
     "Club": "CrossFit Reykjavík",
-    "Time": ["01:03:03", "01:03:01"],
+    "Time": [
+      "01:03:03",
+      "01:03:01"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:03:56"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:07"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:11"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:21"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:50"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:46"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:37"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:23"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:11"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:08"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:50"
       }
     ],
@@ -717,72 +777,78 @@
     "Rank": "11",
     "BIB": "0171",
     "Team": "Daði Ægis",
-    "Members": ["Ægir Reynisson", "Daði"],
+    "Members": [
+      "Ægir Reynisson",
+      "Daði"
+    ],
     "Club": "Cfr",
-    "Time": ["01:05:07", "01:05:06"],
+    "Time": [
+      "01:05:07",
+      "01:05:06"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:03:55"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:51"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:19"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:57"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:23"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:20"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:38"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:01:01"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:01:09"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:49"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:03:55"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:16"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:02:04"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:13"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:14"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:09:09"
       }
     ],
@@ -792,72 +858,78 @@
     "Rank": "12",
     "BIB": "0179",
     "Team": "Rauðvínsbræður",
-    "Members": ["Einar Guðni Guðjónsson", "Garðar óli"],
+    "Members": [
+      "Einar Guðni Guðjónsson",
+      "Garðar óli"
+    ],
     "Club": "CF RVK",
-    "Time": ["01:05:17", "01:05:14"],
+    "Time": [
+      "01:05:17",
+      "01:05:14"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:12"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:16"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:31"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:04"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:46"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:18"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:13"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:22"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:25"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:49"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:01"
       }
     ],
@@ -867,72 +939,78 @@
     "Rank": "13",
     "BIB": "0137",
     "Team": "Trad Squad",
-    "Members": ["Ivar Österby Ævarsson", "Haukur Færseth"],
+    "Members": [
+      "Ivar Österby Ævarsson",
+      "Haukur Færseth"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:06:51", "01:06:48"],
+    "Time": [
+      "01:06:51",
+      "01:06:48"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:21"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:58"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:38"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:39"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:27"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:44"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:24"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:35"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:11"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:07"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:20"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:23"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:22"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:49"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:55"
       }
     ],
@@ -942,72 +1020,78 @@
     "Rank": "14",
     "BIB": "0155",
     "Team": "I go you go",
-    "Members": ["Steinar B. Hafberg", "Óskar Örn Eyþórsson"],
+    "Members": [
+      "Steinar B. Hafberg",
+      "Óskar Örn Eyþórsson"
+    ],
     "Club": "WorldFit",
-    "Time": ["01:08:33", "01:08:29"],
+    "Time": [
+      "01:08:33",
+      "01:08:29"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:15"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:20"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:28"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:37"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:30"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:52"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:10"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:28"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:13"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:38"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:13"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:56"
       }
     ],
@@ -1017,72 +1101,78 @@
     "Rank": "15",
     "BIB": "0160",
     "Team": "All show no go",
-    "Members": ["Magnus samuelsson", "Victor Ingi"],
+    "Members": [
+      "Magnus samuelsson",
+      "Victor Ingi"
+    ],
     "Club": "Crossfit Reykjavik",
-    "Time": ["01:09:07", "01:09:03"],
+    "Time": [
+      "01:09:07",
+      "01:09:03"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:46"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:03:53"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:01:03"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:04:06"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:01:43"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:43"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:02:52"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:05:32"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:02:23"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:34"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:12"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:46"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:02:42"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:38"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:43"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:09:39"
       }
     ],
@@ -1092,72 +1182,78 @@
     "Rank": "16",
     "BIB": "0168",
     "Team": "Birmingham lads",
-    "Members": ["Sigurður Einarsson", "Audrius Sakalauskas"],
+    "Members": [
+      "Sigurður Einarsson",
+      "Audrius Sakalauskas"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:09:09", "01:09:07"],
+    "Time": [
+      "01:09:09",
+      "01:09:07"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:34"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:02"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:48"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:29"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:15"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:43"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:40"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:40"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:29"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:18"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:19"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:37"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:12"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:42"
       }
     ],
@@ -1167,68 +1263,74 @@
     "Rank": "17",
     "BIB": "0111",
     "Team": "Sigmar og félagar",
-    "Members": ["Jan Hinrik Hansen", "Sigmar Egill Baldursson"],
+    "Members": [
+      "Jan Hinrik Hansen",
+      "Sigmar Egill Baldursson"
+    ],
     "Club": "Hamarsport",
-    "Time": ["01:09:17", "01:09:13"],
+    "Time": [
+      "01:09:17",
+      "01:09:13"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:25"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:46"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:23"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:35"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:09:01"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:03:04"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:05:28"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:00"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:03:01"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:00"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:39"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:33"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:05"
       }
     ],
@@ -1238,72 +1340,78 @@
     "Rank": "18",
     "BIB": "0106",
     "Team": "Soberkings",
-    "Members": ["Grimur thor Robersson", "Brynjar ari"],
+    "Members": [
+      "Grimur thor Robersson",
+      "Brynjar ari"
+    ],
     "Club": "Cfrvk",
-    "Time": ["01:10:35", "01:10:32"],
+    "Time": [
+      "01:10:35",
+      "01:10:32"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:20"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:13"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:45"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:21"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:26"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:16"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:54"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:20"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:54"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:40"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:57"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:38"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:24"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:43"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:47"
       }
     ],
@@ -1313,72 +1421,78 @@
     "Rank": "19",
     "BIB": "0142",
     "Team": "Kuldi",
-    "Members": ["Evert Víglundsson", "Sveinn Gunnar Björnsson"],
+    "Members": [
+      "Evert Víglundsson",
+      "Sveinn Gunnar Björnsson"
+    ],
     "Club": "CrossFit Reykjavík",
-    "Time": ["01:12:30", "01:02:27"],
+    "Time": [
+      "01:12:30",
+      "01:02:27"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:14:20"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:11"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:19"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:47"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:24"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:50"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:01:30"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:19"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:00"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:30"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:07"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:31"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:16"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:34"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:55"
       }
     ],
@@ -1388,72 +1502,78 @@
     "Rank": "20",
     "BIB": "0152",
     "Team": "Kisi & hvutti",
-    "Members": ["Kári Árnason", "Brynjar Orri Bjarnason"],
+    "Members": [
+      "Kári Árnason",
+      "Brynjar Orri Bjarnason"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:15:15", "01:15:11"],
+    "Time": [
+      "01:15:15",
+      "01:15:11"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:15"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:58"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:09"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:09"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:58"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:14"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:46"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:56"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:48"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:39"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:38"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:33"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:18"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:09"
       }
     ],
@@ -1463,72 +1583,78 @@
     "Rank": "21",
     "BIB": "0147",
     "Team": "Steinkovic",
-    "Members": ["Gísli Tómas Guðjónsson", "Sigurður Traustason"],
+    "Members": [
+      "Gísli Tómas Guðjónsson",
+      "Sigurður Traustason"
+    ],
     "Club": "Crossfit XY",
-    "Time": ["01:17:15", "01:17:11"],
+    "Time": [
+      "01:17:15",
+      "01:17:11"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:56"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:15"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:25"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:56"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:42"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:51"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:07"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:08"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:41"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:46"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:47"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:44"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:07"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:49"
       }
     ],
@@ -1538,72 +1664,78 @@
     "Rank": "1",
     "BIB": "0149",
     "Team": "Hreindýrabollan & sultan",
-    "Members": ["Sigurður Óli Magnússon", "Hafsteinn Gunnlaugsson"],
+    "Members": [
+      "Sigurður Óli Magnússon",
+      "Hafsteinn Gunnlaugsson"
+    ],
     "Club": "Worldfit",
-    "Time": ["01:00:29", "01:00:27"],
+    "Time": [
+      "01:00:29",
+      "01:00:27"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:09"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:06"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:14"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:10"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:38"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:22"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:26"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:48"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:10"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:36"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:23"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:41"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:50"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:37"
       }
     ],
@@ -1613,72 +1745,78 @@
     "Rank": "2",
     "BIB": "0119",
     "Team": "Les Crêpes",
-    "Members": ["Sigurður Ragnarsson", "Jón Levy"],
+    "Members": [
+      "Sigurður Ragnarsson",
+      "Jón Levy"
+    ],
     "Club": "CFR",
-    "Time": ["01:15:02", "01:14:57"],
+    "Time": [
+      "01:15:02",
+      "01:14:57"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:30"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:56"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:53"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:18"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:43"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:01"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:16"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:18"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:34"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:43"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:24"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:54"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:52"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:18"
       }
     ],
@@ -1688,68 +1826,74 @@
     "Rank": "3",
     "BIB": "0154",
     "Team": "Hafberg junior’s",
-    "Members": ["Eysteinn Björn Hafberg", "Emil Ingi Hafberg"],
+    "Members": [
+      "Eysteinn Björn Hafberg",
+      "Emil Ingi Hafberg"
+    ],
     "Club": "Worldfit",
-    "Time": ["01:21:21", "01:21:18"],
+    "Time": [
+      "01:21:21",
+      "01:21:18"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:09:48"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:05:09"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:02:19"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:06:56"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:24"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:06:26"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:03:30"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:06:55"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:12"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:06:26"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:03:37"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:52"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:06"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:50"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:59"
       }
     ],
@@ -1759,72 +1903,78 @@
     "Rank": "4",
     "BIB": "0116",
     "Team": "Inglourious Bastards",
-    "Members": ["Guðmundur Finnbogason", "Gundars Eglitis"],
+    "Members": [
+      "Guðmundur Finnbogason",
+      "Gundars Eglitis"
+    ],
     "Club": "Mjönir",
-    "Time": ["01:23:18", "01:23:15"],
+    "Time": [
+      "01:23:18",
+      "01:23:15"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:22"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:28"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:42"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:41"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:19"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:33"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:05:21"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:20"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:26"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:42"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:27"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:44"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:06:41"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:41"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:05:56"
       }
     ],
@@ -1834,72 +1984,78 @@
     "Rank": "5",
     "BIB": "0157",
     "Team": "Team 247",
-    "Members": ["Róbert Orri Árnason", "Patrekur Máni Hermannson"],
+    "Members": [
+      "Róbert Orri Árnason",
+      "Patrekur Máni Hermannson"
+    ],
     "Club": "WorldClass",
-    "Time": ["01:28:12", "01:28:09"],
+    "Time": [
+      "01:28:12",
+      "01:28:09"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:52"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:39"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:06:13"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:16"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:09:00"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:36"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:07:51"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:08:29"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:32"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:35"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:50"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:52"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:43"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:51"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:49"
       }
     ],
@@ -1909,72 +2065,78 @@
     "Rank": "1",
     "BIB": "0144",
     "Team": "Can you keep up",
-    "Members": ["Helena Líf Magnúsdóttir", "Margrét Lilja Burrell"],
+    "Members": [
+      "Helena Líf Magnúsdóttir",
+      "Margrét Lilja Burrell"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:07:30", "01:07:27"],
+    "Time": [
+      "01:07:30",
+      "01:07:27"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:29"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:43"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:02"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:04"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:15"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:13"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:30"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:25"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:03"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:58"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:51"
       }
     ],
@@ -1984,72 +2146,78 @@
     "Rank": "2",
     "BIB": "0158",
     "Team": "Knoll og tott",
-    "Members": ["Katrín Ásta Karlsdóttir", "Selma Kristín Gísladóttir"],
+    "Members": [
+      "Katrín Ásta Karlsdóttir",
+      "Selma Kristín Gísladóttir"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:10:46", "01:10:44"],
+    "Time": [
+      "01:10:46",
+      "01:10:44"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:42"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:28"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:18"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:17"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:40"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:28"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:31"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:17"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:01"
       }
     ],
@@ -2059,68 +2227,74 @@
     "Rank": "3",
     "BIB": "0180",
     "Team": "Sara og Íris",
-    "Members": ["Sara Lind Frostadóttir", "Íris Dögg Frostadóttir"],
+    "Members": [
+      "Sara Lind Frostadóttir",
+      "Íris Dögg Frostadóttir"
+    ],
     "Club": "CF RVK",
-    "Time": ["01:10:54", "01:10:51"],
+    "Time": [
+      "01:10:54",
+      "01:10:51"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:47"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:36"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:25"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:02"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:45"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:02"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:07"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:09"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:08:03"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:01"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:05"
       }
     ],
@@ -2130,60 +2304,66 @@
     "Rank": "4",
     "BIB": "0121",
     "Team": "Kókosbolllur",
-    "Members": ["Ylfa Helgadóttir", "Bryndís Bolladóttir"],
+    "Members": [
+      "Ylfa Helgadóttir",
+      "Bryndís Bolladóttir"
+    ],
     "Club": "cfr",
-    "Time": ["01:11:09", "01:11:06"],
+    "Time": [
+      "01:11:09",
+      "01:11:06"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:42"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:03:09"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:03:09"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:09:38"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:02:50"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:28"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:04:36"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:13"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:46"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:12"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:12:34"
       }
     ],
@@ -2193,72 +2373,78 @@
     "Rank": "5",
     "BIB": "0163",
     "Team": "Mjölnismafían",
-    "Members": ["Hildur Guðný Káradóttir", "Sunna Björk Skarphéðinsdóttir"],
+    "Members": [
+      "Hildur Guðný Káradóttir",
+      "Sunna Björk Skarphéðinsdóttir"
+    ],
     "Club": "Mjölnir",
-    "Time": ["01:11:17", "01:11:13"],
+    "Time": [
+      "01:11:17",
+      "01:11:13"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:37"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:29"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:03"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:05"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:01:05"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:16"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:36"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:23"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:02:30"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:17"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:44"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:08:52"
       }
     ],
@@ -2268,72 +2454,78 @@
     "Rank": "6",
     "BIB": "0162",
     "Team": "Old girls",
-    "Members": ["Ana Cate", "Karen Sturludóttir"],
+    "Members": [
+      "Ana Cate",
+      "Karen Sturludóttir"
+    ],
     "Club": "CFR / CF Sport",
-    "Time": ["01:12:15", "01:12:12"],
+    "Time": [
+      "01:12:15",
+      "01:12:12"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:37"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:49"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:37"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:05"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:13"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:00"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:24"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:59"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:24"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:56"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:12"
       }
     ],
@@ -2343,72 +2535,78 @@
     "Rank": "7",
     "BIB": "0178",
     "Team": "MAGNÚSDÆTUR",
-    "Members": ["Fanney Ros Magnusdottir", "Jenný Magnúsdóttir"],
+    "Members": [
+      "Fanney Ros Magnusdottir",
+      "Jenný Magnúsdóttir"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:12:30", "01:12:26"],
+    "Time": [
+      "01:12:30",
+      "01:12:26"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:13"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:08"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:02"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:00"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:33"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:45"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:35"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:38"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:42"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:53"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:43"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:31"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:01"
       }
     ],
@@ -2418,72 +2616,78 @@
     "Rank": "8",
     "BIB": "0148",
     "Team": "Alena og Kristin",
-    "Members": ["Kristin Jakobsdottir", "Alena Jónsdóttir"],
+    "Members": [
+      "Kristin Jakobsdottir",
+      "Alena Jónsdóttir"
+    ],
     "Club": "WorldFit og Crossfit Reykjavik",
-    "Time": ["01:14:32", "01:14:29"],
+    "Time": [
+      "01:14:32",
+      "01:14:29"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:50"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:24"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:57"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:13"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:00"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:03"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:49"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:50"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:17"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:43"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:35"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:16"
       }
     ],
@@ -2493,72 +2697,78 @@
     "Rank": "9",
     "BIB": "0118",
     "Team": "Undís",
-    "Members": ["Una Margrét Heimisdóttir", "Eydís Arna Birgisdóttir"],
+    "Members": [
+      "Una Margrét Heimisdóttir",
+      "Eydís Arna Birgisdóttir"
+    ],
     "Club": "CfRvk",
-    "Time": ["01:14:34", "01:14:31"],
+    "Time": [
+      "01:14:34",
+      "01:14:31"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:56"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:14"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:53"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:46"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:02"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:48"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:56"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:27"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:46"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:20"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:02"
       }
     ],
@@ -2568,72 +2778,78 @@
     "Rank": "10",
     "BIB": "0132",
     "Team": "Una og Birta :)",
-    "Members": ["Birta Hannesdóttir", "Una Ásrún Gísladottir"],
+    "Members": [
+      "Birta Hannesdóttir",
+      "Una Ásrún Gísladottir"
+    ],
     "Club": "Crossfit Reykjavik",
-    "Time": ["01:15:09", "01:15:07"],
+    "Time": [
+      "01:15:09",
+      "01:15:07"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:55"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:29"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:56"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:22"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:06:09"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:17"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:00"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:11"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:31"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:21"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:31"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:11"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:11"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:47"
       }
     ],
@@ -2648,70 +2864,73 @@
       "Hulda Rós Blöndal Snorradóttir"
     ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:28:27", "01:28:23"],
+    "Time": [
+      "01:28:27",
+      "01:28:23"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:43"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:52"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:06:48"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:23"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:07:28"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:47"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:07:12"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:31"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:49"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:55"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:47"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:09"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:07:06"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:44"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:53"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:27"
       }
     ],
@@ -2721,72 +2940,78 @@
     "Rank": "1",
     "BIB": "0143",
     "Team": "Ultra Gyðjurnar",
-    "Members": ["Eygerður Hafþórsdóttir", "Simona Vareikaitė"],
+    "Members": [
+      "Eygerður Hafþórsdóttir",
+      "Simona Vareikaitė"
+    ],
     "Club": "Ultraform",
-    "Time": ["01:02:44", "01:02:40"],
+    "Time": [
+      "01:02:44",
+      "01:02:40"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:14"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:47"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:27"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:47"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:35"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:22"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:26"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:53"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:30"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:40"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:23"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:21"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:26"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:02"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:25"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:35"
       }
     ],
@@ -2796,72 +3021,78 @@
     "Rank": "2",
     "BIB": "0138",
     "Team": "Afreksbrussur",
-    "Members": ["Gunnhildur Gunnarsdóttir", "Arnrún Tryggvadóttir"],
+    "Members": [
+      "Gunnhildur Gunnarsdóttir",
+      "Arnrún Tryggvadóttir"
+    ],
     "Club": "Afrek",
-    "Time": ["01:10:20", "01:10:18"],
+    "Time": [
+      "01:10:20",
+      "01:10:18"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:14"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:45"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:01:02"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:03:53"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:02:04"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:07"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:12"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:05:16"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:03:28"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:30"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:11"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:02:39"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:36"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:21"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:09:09"
       }
     ],
@@ -2871,60 +3102,66 @@
     "Rank": "3",
     "BIB": "0176",
     "Team": "Ultra G&T",
-    "Members": ["Tanja Björk", "Gabriela Helgudóttir"],
+    "Members": [
+      "Tanja Björk",
+      "Gabriela Helgudóttir"
+    ],
     "Club": "Ultraform",
-    "Time": ["01:12:28", "01:12:25"],
+    "Time": [
+      "01:12:28",
+      "01:12:25"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:31"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:43"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:14"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:07:31"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:03:49"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:18"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:03:59"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:10:26"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:17"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:02:32"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:09:31"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:16"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:27"
       }
     ],
@@ -2934,72 +3171,78 @@
     "Rank": "4",
     "BIB": "0156",
     "Team": "Queen Bees",
-    "Members": ["Brynja Halldórsdóttir", "Berglind Sigmarsdóttir"],
+    "Members": [
+      "Brynja Halldórsdóttir",
+      "Berglind Sigmarsdóttir"
+    ],
     "Club": "CFR",
-    "Time": ["01:13:33", "01:13:29"],
+    "Time": [
+      "01:13:33",
+      "01:13:29"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:05:08"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:14"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:01"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:30"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:19"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:31"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:00"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:13"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:05"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:17"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:24"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:08"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:41"
       }
     ],
@@ -3009,72 +3252,78 @@
     "Rank": "5",
     "BIB": "0141",
     "Team": "DIE",
-    "Members": ["Ingunn Taeko Ásgeirsdóttir", "Eyrún Kristín Eyjólfsdóttir"],
+    "Members": [
+      "Ingunn Taeko Ásgeirsdóttir",
+      "Eyrún Kristín Eyjólfsdóttir"
+    ],
     "Club": "World Class",
-    "Time": ["01:15:21", "01:15:19"],
+    "Time": [
+      "01:15:21",
+      "01:15:19"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:02"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:34"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:41"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:07"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:03"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:08"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:06"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:58"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:10"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:05"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:50"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:42"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:47"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:36"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:49"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:50"
       }
     ],
@@ -3084,64 +3333,70 @@
     "Rank": "6",
     "BIB": "0164",
     "Team": "Ultraformið",
-    "Members": ["Edda María Birgisdóttir", "María Kjartansdóttir"],
+    "Members": [
+      "Edda María Birgisdóttir",
+      "María Kjartansdóttir"
+    ],
     "Club": "Ultraform",
-    "Time": ["01:16:43", "01:16:40"],
+    "Time": [
+      "01:16:43",
+      "01:16:40"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:43"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:30"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:51"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:10:43"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:07:02"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:03:32"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:06:04"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:11"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:57"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:02:36"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:43"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:08:58"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:54"
       }
     ],
@@ -3151,72 +3406,78 @@
     "Rank": "7",
     "BIB": "0113",
     "Team": "Valkyrjur",
-    "Members": ["Íris Friðriksdóttir", "Margrét María Ívarsdóttir"],
+    "Members": [
+      "Íris Friðriksdóttir",
+      "Margrét María Ívarsdóttir"
+    ],
     "Club": "Mjölnir",
-    "Time": ["01:16:55", "01:16:51"],
+    "Time": [
+      "01:16:55",
+      "01:16:51"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:32"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:37"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:06:03"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:50"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:39"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:30"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:56"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:57"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:39"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:59"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:23"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:47"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:16"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:33"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:25"
       }
     ],
@@ -3226,68 +3487,74 @@
     "Rank": "8",
     "BIB": "0134",
     "Team": "Mæðgurnar",
-    "Members": ["Mjöll Barkar", "Sjöfn Sólveig"],
+    "Members": [
+      "Mjöll Barkar",
+      "Sjöfn Sólveig"
+    ],
     "Club": "Ultraform",
-    "Time": ["01:17:24", "01:17:19"],
+    "Time": [
+      "01:17:24",
+      "01:17:19"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:59"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:31"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:27"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:57"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:47"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:13"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:52"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:41"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:22"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:03"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:02"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:02"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:54"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:07"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:10:32"
       }
     ],
@@ -3297,72 +3564,78 @@
     "Rank": "9",
     "BIB": "0130",
     "Team": "Hlaupadrottningar",
-    "Members": ["Andrea Ýr Grímsdóttir", "Viktoría Rós Guðmundsdóttir"],
+    "Members": [
+      "Andrea Ýr Grímsdóttir",
+      "Viktoría Rós Guðmundsdóttir"
+    ],
     "Club": "Crossfit Selfoss",
-    "Time": ["01:19:32", "01:19:28"],
+    "Time": [
+      "01:19:32",
+      "01:19:28"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:20"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:37"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:47"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:01"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:10"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:35"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:22"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:31"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:07"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:32"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:16"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:16"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:54"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:11"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:03"
       }
     ],
@@ -3372,72 +3645,78 @@
     "Rank": "10",
     "BIB": "0170",
     "Team": "Úkraínur",
-    "Members": ["Júlía Rachenko", "Nataliia Bilova"],
+    "Members": [
+      "Júlía Rachenko",
+      "Nataliia Bilova"
+    ],
     "Club": "CFR",
-    "Time": ["01:20:04", "01:20:01"],
+    "Time": [
+      "01:20:04",
+      "01:20:01"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:41"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:05:27"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:24"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:15"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:58"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:08"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:12"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:11"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:17"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:32"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:17"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:08"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:57"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:16"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:48"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:41"
       }
     ],
@@ -3447,72 +3726,78 @@
     "Rank": "1",
     "BIB": "0112",
     "Team": "G&T",
-    "Members": ["Tryggvi Þór Logason", "Guðrún Heiða"],
+    "Members": [
+      "Tryggvi Þór Logason",
+      "Guðrún Heiða"
+    ],
     "Club": "Worldfit",
-    "Time": ["01:00:49", "01:00:48"],
+    "Time": [
+      "01:00:49",
+      "01:00:48"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:02"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:13"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:04"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:23"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:10"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:03:59"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:41"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:08"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:39"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:37"
       }
     ],
@@ -3522,72 +3807,78 @@
     "Rank": "2",
     "BIB": "0161",
     "Team": "Team Hrafnista",
-    "Members": ["Ragnar Ingi Klemenzson", "Alma Hrönn Káradóttir"],
+    "Members": [
+      "Ragnar Ingi Klemenzson",
+      "Alma Hrönn Káradóttir"
+    ],
     "Club": "Crossfit Sport",
-    "Time": ["01:01:45", "01:01:42"],
+    "Time": [
+      "01:01:45",
+      "01:01:42"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:13"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:02"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:27"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:39"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:34"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:53"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:57"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:04"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:19"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:49"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:40"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:32"
       }
     ],
@@ -3597,68 +3888,74 @@
     "Rank": "3",
     "BIB": "0128",
     "Team": "Ali&Jakó",
-    "Members": ["Jakobína Jónsdóttir", "Grétar Ali Khan"],
+    "Members": [
+      "Jakobína Jónsdóttir",
+      "Grétar Ali Khan"
+    ],
     "Club": "Grandi101",
-    "Time": ["01:02:57", "01:02:54"],
+    "Time": [
+      "01:02:57",
+      "01:02:54"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:20"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:21"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:27"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:40"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:48"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:32"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:56"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:43"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:04:56"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:36"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:36"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:07:11"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:35"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:41"
       }
     ],
@@ -3668,72 +3965,78 @@
     "Rank": "4",
     "BIB": "0159",
     "Team": "GM Fuerza",
-    "Members": ["Margrét Ákadóttir", "Gísli Unnarsson"],
+    "Members": [
+      "Margrét Ákadóttir",
+      "Gísli Unnarsson"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:02:57", "01:02:54"],
+    "Time": [
+      "01:02:57",
+      "01:02:54"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:20"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:15"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:32"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:42"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:52"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:38"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:04"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:17"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:04:44"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:27"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:25"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:02"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:26"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:12"
       }
     ],
@@ -3743,72 +4046,78 @@
     "Rank": "5",
     "BIB": "0127",
     "Team": "Jóhann & Margrét",
-    "Members": ["Margrét Dagbjört", "Jóhann Gísli"],
+    "Members": [
+      "Margrét Dagbjört",
+      "Jóhann Gísli"
+    ],
     "Club": "Grandi101",
-    "Time": ["01:07:27", "01:07:25"],
+    "Time": [
+      "01:07:27",
+      "01:07:25"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:44"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:21"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:52"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:11"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:07"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:19"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:04"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:26"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:23"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:46"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:03"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:40"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:06"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:07"
       }
     ],
@@ -3818,72 +4127,78 @@
     "Rank": "6",
     "BIB": "0151",
     "Team": "The Avengers",
-    "Members": ["Andrea Rán", "Victor Gauti"],
+    "Members": [
+      "Andrea Rán",
+      "Victor Gauti"
+    ],
     "Club": "",
-    "Time": ["01:08:41", "01:08:37"],
+    "Time": [
+      "01:08:41",
+      "01:08:37"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:26"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:20"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:41"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:54"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:02"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:25"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:59"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:36"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:59"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:12"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:26"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:21"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:12"
       }
     ],
@@ -3893,72 +4208,78 @@
     "Rank": "7",
     "BIB": "0166",
     "Team": "A&A",
-    "Members": ["Andrea Marín Árnadóttir", "Andrea Marín"],
+    "Members": [
+      "Andrea Marín Árnadóttir",
+      "Andrea Marín"
+    ],
     "Club": "Worldfit",
-    "Time": ["01:08:50", "01:08:48"],
+    "Time": [
+      "01:08:50",
+      "01:08:48"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:27"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:28"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:42"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:10"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:19"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:04:52"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:55"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:07"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:48"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:09"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:24"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:11"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:10"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:00"
       }
     ],
@@ -3968,72 +4289,78 @@
     "Rank": "8",
     "BIB": "0153",
     "Team": "2Fast2Furious",
-    "Members": ["Kolbeinn Gunnarsson", "TBA"],
+    "Members": [
+      "Kolbeinn Gunnarsson",
+      "TBA"
+    ],
     "Club": "FH",
-    "Time": ["01:09:45", "01:09:41"],
+    "Time": [
+      "01:09:45",
+      "01:09:41"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:11"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:14"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:58"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:26"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:14"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:33"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:54"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:21"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:23"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:05"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:20"
       }
     ],
@@ -4043,68 +4370,74 @@
     "Rank": "9",
     "BIB": "0131",
     "Team": "R og R",
-    "Members": ["Þuriður Guðmundsdóttir", "Rannver Sigurjónsson"],
+    "Members": [
+      "Þuriður Guðmundsdóttir",
+      "Rannver Sigurjónsson"
+    ],
     "Club": "Crossfit Reykjavik",
-    "Time": ["01:09:49", "01:09:46"],
+    "Time": [
+      "01:09:49",
+      "01:09:46"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:34"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:13"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:52"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:33"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:22"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:10"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:35"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:23"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:09:58"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:32"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:02:39"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:05:20"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:53"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:56"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:03:58"
       }
     ],
@@ -4114,72 +4447,78 @@
     "Rank": "10",
     "BIB": "0133",
     "Team": "Hin Karen",
-    "Members": ["Hinrik Carl Ellertsson", "Karen Sif Jónsdóttir"],
+    "Members": [
+      "Hinrik Carl Ellertsson",
+      "Karen Sif Jónsdóttir"
+    ],
     "Club": "ULTRA form",
-    "Time": ["01:11:07", "01:11:05"],
+    "Time": [
+      "01:11:07",
+      "01:11:05"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:39"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:29"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:12"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:14"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:55"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:01"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:02:54"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:24"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:41"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:16"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:45"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:16"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:47"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:41"
       }
     ],
@@ -4189,72 +4528,78 @@
     "Rank": "11",
     "BIB": "0129",
     "Team": "Cardio Royals",
-    "Members": ["Guðni Steinarsson", "Hildur Margrét"],
+    "Members": [
+      "Guðni Steinarsson",
+      "Hildur Margrét"
+    ],
     "Club": "Grandi 101",
-    "Time": ["01:11:14", "01:11:11"],
+    "Time": [
+      "01:11:14",
+      "01:11:11"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:47"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:27"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:59"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:08"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:17"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:25"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:27"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:16"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:30"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:41"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:33"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:38"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:37"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:48"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:14"
       }
     ],
@@ -4264,72 +4609,78 @@
     "Rank": "12",
     "BIB": "0105",
     "Team": "Massi",
-    "Members": ["Ingibjörg Yrsa", "Gunnar Hilmarsson"],
+    "Members": [
+      "Ingibjörg Yrsa",
+      "Gunnar Hilmarsson"
+    ],
     "Club": "crossfit reykjavík",
-    "Time": ["01:13:13", "01:13:11"],
+    "Time": [
+      "01:13:13",
+      "01:13:11"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:31"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:15"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:11"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:37"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:02:46"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:56"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:23"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:57"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:36"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:09"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:25"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:02"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:57"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:08"
       }
     ],
@@ -4339,68 +4690,74 @@
     "Rank": "13",
     "BIB": "0150",
     "Team": "RGNGDN",
-    "Members": ["Guðni Finnsson", "Ragna Hjördís Ágústsdóttir"],
+    "Members": [
+      "Guðni Finnsson",
+      "Ragna Hjördís Ágústsdóttir"
+    ],
     "Club": "",
-    "Time": ["01:13:36", "01:13:32"],
+    "Time": [
+      "01:13:36",
+      "01:13:32"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:39"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:53"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:53"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:14"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:16"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:34"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:26"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:19"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:46"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:21"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:13"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:50"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:10:04"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:07"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:08"
       }
     ],
@@ -4410,72 +4767,78 @@
     "Rank": "14",
     "BIB": "0120",
     "Team": "Æ-Team",
-    "Members": ["Anna Svavarsdóttir", "Einar Kristinn Kristgeirsson"],
+    "Members": [
+      "Anna Svavarsdóttir",
+      "Einar Kristinn Kristgeirsson"
+    ],
     "Club": "CFR",
-    "Time": ["01:13:41", "01:13:38"],
+    "Time": [
+      "01:13:41",
+      "01:13:38"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:39"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:08"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:50"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:01:51"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:44"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:01"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:55"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:43"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:08"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:36"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:12"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:03:11"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:03"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:30"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:08"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:09"
       }
     ],
@@ -4485,72 +4848,78 @@
     "Rank": "15",
     "BIB": "0124",
     "Team": "Ungstirnin",
-    "Members": ["Alex Þór Júlíusson", "Salka Sóley Ólafsdóttir"],
+    "Members": [
+      "Alex Þór Júlíusson",
+      "Salka Sóley Ólafsdóttir"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:14:19", "01:14:16"],
+    "Time": [
+      "01:14:19",
+      "01:14:16"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:05:03"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:03"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:12"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:20"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:04:29"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:29"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:12"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:24"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:19"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:34"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:35"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:20"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:04:35"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:21"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:37"
       }
     ],
@@ -4560,72 +4929,78 @@
     "Rank": "16",
     "BIB": "0135",
     "Team": "Ikea Geitin",
-    "Members": ["Róbert Ingi Huldarsson", "Una Hrund Örvar"],
+    "Members": [
+      "Róbert Ingi Huldarsson",
+      "Una Hrund Örvar"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:16:22", "01:16:20"],
+    "Time": [
+      "01:16:22",
+      "01:16:20"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:38"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:49"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:55"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:22"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:27"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:05:49"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:05:22"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:25"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:05:37"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:05:13"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:18"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:58"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:05:28"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:10"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:05:24"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:34"
       }
     ],
@@ -4635,68 +5010,74 @@
     "Rank": "17",
     "BIB": "0123",
     "Team": "Steinunn",
-    "Members": ["Margrét Helga Kristjánsdóttir", "Jóel Kristjánsson"],
+    "Members": [
+      "Margrét Helga Kristjánsdóttir",
+      "Jóel Kristjánsson"
+    ],
     "Club": "Crossfit Reykjavík",
-    "Time": ["01:16:57", "01:16:53"],
+    "Time": [
+      "01:16:57",
+      "01:16:53"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:00"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:38"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:04:54"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:13"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:40"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:22"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:53"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:30"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:28"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:53"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:05:29"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:09:28"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:03:56"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:05:39"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:04:01"
       }
     ],
@@ -4706,72 +5087,78 @@
     "Rank": "18",
     "BIB": "0139",
     "Team": "Team Hamarsport",
-    "Members": ["Oddur Benediktsson", "Rakel Hlynsdóttir"],
+    "Members": [
+      "Oddur Benediktsson",
+      "Rakel Hlynsdóttir"
+    ],
     "Club": "Hengill",
-    "Time": ["01:17:06", "01:17:04"],
+    "Time": [
+      "01:17:06",
+      "01:17:04"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:04:51"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:25"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:26"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:11"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:05:49"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:14"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:16"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:03:15"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:47"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:41"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:29"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:34"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:44"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:23"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:49"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:04:20"
       }
     ],
@@ -4781,72 +5168,78 @@
     "Rank": "19",
     "BIB": "0122",
     "Team": "Fiona og  Shrek",
-    "Members": ["Steinar Sigurdarson", "Elma Rut Jónsdòttir"],
+    "Members": [
+      "Steinar Sigurdarson",
+      "Elma Rut Jónsdòttir"
+    ],
     "Club": "CFR",
-    "Time": ["01:17:16", "01:17:12"],
+    "Time": [
+      "01:17:16",
+      "01:17:12"
+    ],
     "Splits": [
       {
-        "label": "Hlaup",
+        "label": "1. Hlaup",
         "time": "00:05:02"
       },
       {
-        "label": "Ski-Erg",
+        "label": "1. Ski-Erg",
         "time": "00:04:19"
       },
       {
-        "label": "Hlaup",
+        "label": "2. Hlaup",
         "time": "00:05:39"
       },
       {
-        "label": "Ýta sleða",
+        "label": "1. Ýta sleða",
         "time": "00:02:01"
       },
       {
-        "label": "Hlaup",
+        "label": "3. Hlaup",
         "time": "00:06:11"
       },
       {
-        "label": "Draga sleða",
+        "label": "1. Draga sleða",
         "time": "00:03:45"
       },
       {
-        "label": "Hlaup",
+        "label": "4. Hlaup",
         "time": "00:06:16"
       },
       {
-        "label": "Burpee langstökk",
+        "label": "1. Burpee langstökk",
         "time": "00:04:06"
       },
       {
-        "label": "Hlaup",
+        "label": "5. Hlaup",
         "time": "00:06:20"
       },
       {
-        "label": "Róður",
+        "label": "1. Róður",
         "time": "00:04:39"
       },
       {
-        "label": "Hlaup",
+        "label": "6. Hlaup",
         "time": "00:06:04"
       },
       {
-        "label": "Bændaganga",
+        "label": "1. Bændaganga",
         "time": "00:02:35"
       },
       {
-        "label": "Hlaup",
+        "label": "7. Hlaup",
         "time": "00:06:23"
       },
       {
-        "label": "Dumbell lovers",
+        "label": "1. Dumbell lovers",
         "time": "00:03:47"
       },
       {
-        "label": "Hlaup",
+        "label": "8. Hlaup",
         "time": "00:06:23"
       },
       {
-        "label": "Wall Balls",
+        "label": "1. Wall Balls",
         "time": "00:03:54"
       }
     ],
