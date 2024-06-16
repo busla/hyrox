@@ -3,38 +3,39 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-"""
-# Welcome to Streamlit!
+# Load the CSV file
+df = pd.read_csv('/home/ubuntu/hyrox_competition_results.csv')
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+# Extract relevant columns for the chart
+teams = df['Team']
+split_times = df.iloc[:, 7:]  # Columns 7 and onwards are the split times
 
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
+# Convert time strings to numerical values (seconds)
+def time_to_seconds(time_str):
+    if isinstance(time_str, str):
+        h, m, s = map(int, time_str.split(':'))
+        return h * 3600 + m * 60 + s
+    return time_str  # Return the original value if it's not a string
 
-num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
-num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
+split_times = split_times.applymap(time_to_seconds)
 
-indices = np.linspace(0, 1, num_points)
-theta = 2 * np.pi * num_turns * indices
-radius = indices
+# Prepare data for the chart
+data = []
+for i, team in enumerate(teams):
+    team_data = {
+        "label": team,
+        "data": split_times.iloc[i].dropna().tolist()
+    }
+    data.append(team_data)
 
-x = radius * np.cos(theta)
-y = radius * np.sin(theta)
+# Streamlit app
+st.title("Hyrox Competition Time Splits")
+st.write("This line chart visualizes the time splits for each team in the Hyrox competition.")
 
-df = pd.DataFrame({
-    "x": x,
-    "y": y,
-    "idx": indices,
-    "rand": np.random.randn(num_points),
-})
+# Create the line chart
+chart_data = pd.DataFrame(split_times.values, columns=[f"Split {i+1}" for i in range(split_times.shape[1])], index=teams)
+st.line_chart(chart_data)
 
-st.altair_chart(alt.Chart(df, height=700, width=700)
-    .mark_point(filled=True)
-    .encode(
-        x=alt.X("x", axis=None),
-        y=alt.Y("y", axis=None),
-        color=alt.Color("idx", legend=None, scale=alt.Scale()),
-        size=alt.Size("rand", legend=None, scale=alt.Scale(range=[1, 150])),
-    ))
+# Display the data table
+st.write("Competition Results Data")
+st.dataframe(df)
