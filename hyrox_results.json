@@ -6,7 +6,9 @@
       "Magnús Aron Sigurðsson",
       "Birkir Örn Kristjánsson"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "00:59:15",
       "00:51:07"
@@ -84,7 +86,9 @@
       "Arnar Freyr Magnússon",
       "Steinar Þór Ólafsson"
     ],
-    "Club": "Skúrinn",
+    "Club": [
+      "Skúrinn"
+    ],
     "Time": [
       "00:56:48",
       "00:56:48"
@@ -172,7 +176,9 @@
       "Frederik",
       "Stefan"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "00:57:38",
       "00:57:36"
@@ -265,7 +271,9 @@
       "Elmar Gunnarsson",
       "Hróðmar Jónsson"
     ],
-    "Club": "CFRVK",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "00:58:53",
       "00:58:51"
@@ -363,7 +371,9 @@
       "Ágúst Guðmundsson",
       "Bergur Vilhjalmsson"
     ],
-    "Club": "Reykjavík MMA",
+    "Club": [
+      "Reykjavík MMA"
+    ],
     "Time": [
       "00:59:43",
       "00:59:41"
@@ -461,7 +471,9 @@
       "Sigurður Óli Magnússon",
       "Hafsteinn Gunnlaugsson"
     ],
-    "Club": "Worldfit",
+    "Club": [
+      "Worldfit"
+    ],
     "Time": [
       "01:00:29",
       "01:00:27"
@@ -559,7 +571,9 @@
       "Hlynur Þór Þorleifsson",
       "Sigurþór Einarsson"
     ],
-    "Club": "",
+    "Club": [
+      ""
+    ],
     "Time": [
       "01:01:32",
       "01:01:29"
@@ -657,7 +671,9 @@
       "Kristinn Jens Bjartmarsson",
       "Snorri Sigurðarson"
     ],
-    "Club": "Hyrox Reykjavík",
+    "Club": [
+      "Hyrox Reykjavík"
+    ],
     "Time": [
       "01:01:51",
       "01:01:47"
@@ -755,7 +771,9 @@
       "Rökkvi Hrafn Guðnason",
       "Carlos Fernandez"
     ],
-    "Club": "CrossFit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:02:37",
       "01:02:00"
@@ -843,7 +861,9 @@
       "Pedro Þór Roismann Guðmundsson",
       "Gunnar Snær Þórðarson"
     ],
-    "Club": "Crossfit Sport",
+    "Club": [
+      "Crossfit Sport"
+    ],
     "Time": [
       "01:02:53",
       "01:02:53"
@@ -941,7 +961,9 @@
       "Ýmir Guðmundsson",
       "Finnbogi Þór Leifsson"
     ],
-    "Club": "CrossFit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:03:03",
       "01:03:01"
@@ -1039,7 +1061,9 @@
       "Ægir Reynisson",
       "Daði"
     ],
-    "Club": "Cfr",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:05:07",
       "01:05:06"
@@ -1137,7 +1161,9 @@
       "Einar Guðni Guðjónsson",
       "Garðar óli"
     ],
-    "Club": "CF RVK",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:05:17",
       "01:05:14"
@@ -1235,7 +1261,9 @@
       "Ivar Österby Ævarsson",
       "Haukur Færseth"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:06:51",
       "01:06:48"
@@ -1333,7 +1361,9 @@
       "Evert Víglundsson",
       "Sveinn Gunnar Björnsson"
     ],
-    "Club": "CrossFit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:12:30",
       "01:02:27"
@@ -1431,7 +1461,9 @@
       "Steinar B. Hafberg",
       "Óskar Örn Eyþórsson"
     ],
-    "Club": "WorldFit",
+    "Club": [
+      "WorldFit"
+    ],
     "Time": [
       "01:08:33",
       "01:08:29"
@@ -1529,7 +1561,9 @@
       "Magnus samuelsson",
       "Victor Ingi"
     ],
-    "Club": "Crossfit Reykjavik",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:09:07",
       "01:09:03"
@@ -1627,7 +1661,9 @@
       "Sigurður Einarsson",
       "Audrius Sakalauskas"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:09:09",
       "01:09:07"
@@ -1725,7 +1761,9 @@
       "Jan Hinrik Hansen",
       "Sigmar Egill Baldursson"
     ],
-    "Club": "Hamarsport",
+    "Club": [
+      "Hamarsport"
+    ],
     "Time": [
       "01:09:17",
       "01:09:13"
@@ -1818,7 +1856,9 @@
       "Grimur thor Robersson",
       "Brynjar ari"
     ],
-    "Club": "Cfrvk",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:10:35",
       "01:10:32"
@@ -1916,7 +1956,9 @@
       "Kári Árnason",
       "Brynjar Orri Bjarnason"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:15:15",
       "01:15:11"
@@ -2014,7 +2056,9 @@
       "Gísli Tómas Guðjónsson",
       "Sigurður Traustason"
     ],
-    "Club": "Crossfit XY",
+    "Club": [
+      "Crossfit XY"
+    ],
     "Time": [
       "01:17:15",
       "01:17:11"
@@ -2112,7 +2156,9 @@
       "Sigurður Ragnarsson",
       "Jón Levy"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:15:02",
       "01:14:57"
@@ -2210,7 +2256,9 @@
       "Eysteinn Björn Hafberg",
       "Emil Ingi Hafberg"
     ],
-    "Club": "Worldfit",
+    "Club": [
+      "Worldfit"
+    ],
     "Time": [
       "01:21:21",
       "01:21:18"
@@ -2303,7 +2351,9 @@
       "Guðmundur Finnbogason",
       "Gundars Eglitis"
     ],
-    "Club": "Mjönir",
+    "Club": [
+      "Mjönir"
+    ],
     "Time": [
       "01:23:18",
       "01:23:15"
@@ -2401,7 +2451,9 @@
       "Róbert Orri Árnason",
       "Patrekur Máni Hermannson"
     ],
-    "Club": "WorldClass",
+    "Club": [
+      "WorldClass"
+    ],
     "Time": [
       "01:28:12",
       "01:28:09"
@@ -2499,7 +2551,9 @@
       "Helena Líf Magnúsdóttir",
       "Margrét Lilja Burrell"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:07:30",
       "01:07:27"
@@ -2597,7 +2651,9 @@
       "Katrín Ásta Karlsdóttir",
       "Selma Kristín Gísladóttir"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:10:46",
       "01:10:44"
@@ -2695,7 +2751,9 @@
       "Sara Lind Frostadóttir",
       "Íris Dögg Frostadóttir"
     ],
-    "Club": "CF RVK",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:10:54",
       "01:10:51"
@@ -2788,7 +2846,9 @@
       "Ylfa Helgadóttir",
       "Bryndís Bolladóttir"
     ],
-    "Club": "cfr",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:11:09",
       "01:11:06"
@@ -2871,7 +2931,9 @@
       "Hildur Guðný Káradóttir",
       "Sunna Björk Skarphéðinsdóttir"
     ],
-    "Club": "Mjölnir",
+    "Club": [
+      "Mjölnir"
+    ],
     "Time": [
       "01:11:17",
       "01:11:13"
@@ -2969,7 +3031,9 @@
       "Ana Cate",
       "Karen Sturludóttir"
     ],
-    "Club": "CFR / CF Sport",
+    "Club": [
+      "CFR / CF Sport"
+    ],
     "Time": [
       "01:12:15",
       "01:12:12"
@@ -3067,7 +3131,9 @@
       "Fanney Ros Magnusdottir",
       "Jenný Magnúsdóttir"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:12:30",
       "01:12:26"
@@ -3165,7 +3231,9 @@
       "Kristin Jakobsdottir",
       "Alena Jónsdóttir"
     ],
-    "Club": "WorldFit og Crossfit Reykjavik",
+    "Club": [
+      "WorldFit og Crossfit Reykjavik"
+    ],
     "Time": [
       "01:14:32",
       "01:14:29"
@@ -3263,7 +3331,9 @@
       "Una Margrét Heimisdóttir",
       "Eydís Arna Birgisdóttir"
     ],
-    "Club": "CfRvk",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:14:34",
       "01:14:31"
@@ -3361,7 +3431,9 @@
       "Birta Hannesdóttir",
       "Una Ásrún Gísladottir"
     ],
-    "Club": "Crossfit Reykjavik",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:15:09",
       "01:15:07"
@@ -3459,7 +3531,9 @@
       "Fjóla Kristín Traustadóttir",
       "Hulda Rós Blöndal Snorradóttir"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:28:27",
       "01:28:23"
@@ -3557,7 +3631,9 @@
       "Eygerður Hafþórsdóttir",
       "Simona Vareikaitė"
     ],
-    "Club": "Ultraform",
+    "Club": [
+      "Ultraform"
+    ],
     "Time": [
       "01:02:44",
       "01:02:40"
@@ -3655,7 +3731,9 @@
       "Gunnhildur Gunnarsdóttir",
       "Arnrún Tryggvadóttir"
     ],
-    "Club": "Afrek",
+    "Club": [
+      "Afrek"
+    ],
     "Time": [
       "01:10:20",
       "01:10:18"
@@ -3753,7 +3831,9 @@
       "Tanja Björk",
       "Gabriela Helgudóttir"
     ],
-    "Club": "Ultraform",
+    "Club": [
+      "Ultraform"
+    ],
     "Time": [
       "01:12:28",
       "01:12:25"
@@ -3836,7 +3916,9 @@
       "Brynja Halldórsdóttir",
       "Berglind Sigmarsdóttir"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:13:33",
       "01:13:29"
@@ -3934,7 +4016,9 @@
       "Ingunn Taeko Ásgeirsdóttir",
       "Eyrún Kristín Eyjólfsdóttir"
     ],
-    "Club": "World Class",
+    "Club": [
+      "World Class"
+    ],
     "Time": [
       "01:15:21",
       "01:15:19"
@@ -4032,7 +4116,9 @@
       "Edda María Birgisdóttir",
       "María Kjartansdóttir"
     ],
-    "Club": "Ultraform",
+    "Club": [
+      "Ultraform"
+    ],
     "Time": [
       "01:16:43",
       "01:16:40"
@@ -4120,7 +4206,9 @@
       "Íris Friðriksdóttir",
       "Margrét María Ívarsdóttir"
     ],
-    "Club": "Mjölnir",
+    "Club": [
+      "Mjölnir"
+    ],
     "Time": [
       "01:16:55",
       "01:16:51"
@@ -4218,7 +4306,9 @@
       "Mjöll Barkar",
       "Sjöfn Sólveig"
     ],
-    "Club": "Ultraform",
+    "Club": [
+      "Ultraform"
+    ],
     "Time": [
       "01:17:24",
       "01:17:19"
@@ -4311,7 +4401,9 @@
       "Andrea Ýr Grímsdóttir",
       "Viktoría Rós Guðmundsdóttir"
     ],
-    "Club": "Crossfit Selfoss",
+    "Club": [
+      "Crossfit Selfoss"
+    ],
     "Time": [
       "01:19:32",
       "01:19:28"
@@ -4409,7 +4501,9 @@
       "Júlía Rachenko",
       "Nataliia Bilova"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:20:04",
       "01:20:01"
@@ -4507,7 +4601,9 @@
       "Tryggvi Þór Logason",
       "Guðrún Heiða"
     ],
-    "Club": "Worldfit",
+    "Club": [
+      "Worldfit"
+    ],
     "Time": [
       "01:00:49",
       "01:00:48"
@@ -4605,7 +4701,9 @@
       "Ragnar Ingi Klemenzson",
       "Alma Hrönn Káradóttir"
     ],
-    "Club": "Crossfit Sport",
+    "Club": [
+      "Crossfit Sport"
+    ],
     "Time": [
       "01:01:45",
       "01:01:42"
@@ -4703,7 +4801,9 @@
       "Jakobína Jónsdóttir",
       "Grétar Ali Khan"
     ],
-    "Club": "Grandi101",
+    "Club": [
+      "Grandi101"
+    ],
     "Time": [
       "01:02:57",
       "01:02:54"
@@ -4796,7 +4896,9 @@
       "Margrét Ákadóttir",
       "Gísli Unnarsson"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:02:57",
       "01:02:54"
@@ -4894,7 +4996,9 @@
       "Margrét Dagbjört",
       "Jóhann Gísli"
     ],
-    "Club": "Grandi101",
+    "Club": [
+      "Grandi101"
+    ],
     "Time": [
       "01:07:27",
       "01:07:25"
@@ -4992,7 +5096,9 @@
       "Andrea Rán",
       "Victor Gauti"
     ],
-    "Club": "",
+    "Club": [
+      ""
+    ],
     "Time": [
       "01:08:41",
       "01:08:37"
@@ -5090,7 +5196,9 @@
       "Andrea Marín Árnadóttir",
       "Andrea Marín"
     ],
-    "Club": "Worldfit",
+    "Club": [
+      "Worldfit"
+    ],
     "Time": [
       "01:08:50",
       "01:08:48"
@@ -5188,7 +5296,9 @@
       "Kolbeinn Gunnarsson",
       "TBA"
     ],
-    "Club": "FH",
+    "Club": [
+      "FH"
+    ],
     "Time": [
       "01:09:45",
       "01:09:41"
@@ -5286,7 +5396,9 @@
       "Þuriður Guðmundsdóttir",
       "Rannver Sigurjónsson"
     ],
-    "Club": "Crossfit Reykjavik",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:09:49",
       "01:09:46"
@@ -5379,7 +5491,9 @@
       "Hinrik Carl Ellertsson",
       "Karen Sif Jónsdóttir"
     ],
-    "Club": "ULTRA form",
+    "Club": [
+      "ULTRA form"
+    ],
     "Time": [
       "01:11:07",
       "01:11:05"
@@ -5477,7 +5591,9 @@
       "Guðni Steinarsson",
       "Hildur Margrét"
     ],
-    "Club": "Grandi 101",
+    "Club": [
+      "Grandi 101"
+    ],
     "Time": [
       "01:11:14",
       "01:11:11"
@@ -5575,7 +5691,9 @@
       "Ingibjörg Yrsa",
       "Gunnar Hilmarsson"
     ],
-    "Club": "crossfit reykjavík",
+    "Club": [
+      "crossfit reykjavík"
+    ],
     "Time": [
       "01:13:13",
       "01:13:11"
@@ -5673,7 +5791,9 @@
       "Guðni Finnsson",
       "Ragna Hjördís Ágústsdóttir"
     ],
-    "Club": "",
+    "Club": [
+      ""
+    ],
     "Time": [
       "01:13:36",
       "01:13:32"
@@ -5766,7 +5886,9 @@
       "Anna Svavarsdóttir",
       "Einar Kristinn Kristgeirsson"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:13:41",
       "01:13:38"
@@ -5864,7 +5986,9 @@
       "Alex Þór Júlíusson",
       "Salka Sóley Ólafsdóttir"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:14:19",
       "01:14:16"
@@ -5962,7 +6086,9 @@
       "Róbert Ingi Huldarsson",
       "Una Hrund Örvar"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:16:22",
       "01:16:20"
@@ -6060,7 +6186,9 @@
       "Margrét Helga Kristjánsdóttir",
       "Jóel Kristjánsson"
     ],
-    "Club": "Crossfit Reykjavík",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:16:57",
       "01:16:53"
@@ -6153,7 +6281,9 @@
       "Oddur Benediktsson",
       "Rakel Hlynsdóttir"
     ],
-    "Club": "Hengill",
+    "Club": [
+      "Hengill"
+    ],
     "Time": [
       "01:17:06",
       "01:17:04"
@@ -6251,7 +6381,9 @@
       "Steinar Sigurdarson",
       "Elma Rut Jónsdòttir"
     ],
-    "Club": "CFR",
+    "Club": [
+      "CFR"
+    ],
     "Time": [
       "01:17:16",
       "01:17:12"

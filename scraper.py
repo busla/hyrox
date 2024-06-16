@@ -1,4 +1,4 @@
-from typing import Any, Dict
+from typing import Any, Dict, List
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -12,6 +12,23 @@ def fix_wrong_category(value: Dict) -> Dict:
         value["Category"] = value["Category"].replace("OPEN", "PRO")
         print(f"Fixed category: {value['Category']}")
     return value
+
+
+def normalize_club_name(club: str) -> str:
+    normalization_map = {
+        "CFR": "CFR",
+        "CFRVK": "CFR",
+        "CfRvk": "CFR",
+        "CrossFit Reykjavík": "CFR",
+        "Cfr": "CFR",
+        "CF RVK": "CFR",
+        "Crossfit Reykjavík": "CFR",
+        "Crossfit Reykjavik": "CFR",
+        "Cfrvk": "CFR",
+        "CF RVK": "CFR",
+        "cfr": "CFR",
+    }
+    return normalization_map.get(club, club)
 
 
 def convert_time_to_seconds(time_str):
@@ -55,7 +72,9 @@ def scrape_category(url):
             if members_html.contents and members_html.contents[-1].strip():
                 members.append(members_html.contents[-1].strip())
 
+            # Extract and normalize club names
             club = columns[4].get_text(strip=True)
+            club_names = [normalize_club_name(c.strip()) for c in club.split(",")]
 
             # Extract the last two <td> for the Time array
             total_time = columns[-1].get_text(strip=True)
@@ -77,7 +96,7 @@ def scrape_category(url):
                 "BIB": bib,
                 "Team": team_name,
                 "Members": members,
-                "Club": club,
+                "Club": club_names,
                 "Time": [second_last_time, total_time],
                 "Splits": splits,
                 "Category": category_name,
