@@ -9,10 +9,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "00:59:15",
-      "00:51:07"
-    ],
+    "Time": "00:55:11",
     "Splits": [
       {
         "label": "Hlaup",
@@ -76,7 +73,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3311.0,
+    "AverageTimeInSeconds": 3311,
     "Rank": 1
   },
   {
@@ -89,10 +86,7 @@
     "Club": [
       "Skúrinn"
     ],
-    "Time": [
-      "00:56:48",
-      "00:56:48"
-    ],
+    "Time": "00:56:48",
     "Splits": [
       {
         "label": "Ski-Erg",
@@ -166,7 +160,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3408.0,
+    "AverageTimeInSeconds": 3408,
     "Rank": 2
   },
   {
@@ -179,10 +173,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "00:57:38",
-      "00:57:36"
-    ],
+    "Time": "00:57:37",
     "Splits": [
       {
         "label": "Hlaup",
@@ -261,7 +252,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3457.0,
+    "AverageTimeInSeconds": 3457,
     "Rank": 3
   },
   {
@@ -274,10 +265,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "00:58:53",
-      "00:58:51"
-    ],
+    "Time": "00:58:52",
     "Splits": [
       {
         "label": "Hlaup",
@@ -361,7 +349,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3532.0,
+    "AverageTimeInSeconds": 3532,
     "Rank": 4
   },
   {
@@ -374,10 +362,7 @@
     "Club": [
       "Reykjavík MMA"
     ],
-    "Time": [
-      "00:59:43",
-      "00:59:41"
-    ],
+    "Time": "00:59:42",
     "Splits": [
       {
         "label": "Hlaup",
@@ -461,7 +446,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3582.0,
+    "AverageTimeInSeconds": 3582,
     "Rank": 5
   },
   {
@@ -472,12 +457,9 @@
       "Hafsteinn Gunnlaugsson"
     ],
     "Club": [
-      "Worldfit"
+      "WorldFit"
     ],
-    "Time": [
-      "01:00:29",
-      "01:00:27"
-    ],
+    "Time": "01:00:28",
     "Splits": [
       {
         "label": "Hlaup",
@@ -561,7 +543,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3628.0,
+    "AverageTimeInSeconds": 3628,
     "Rank": 6
   },
   {
@@ -574,10 +556,7 @@
     "Club": [
       ""
     ],
-    "Time": [
-      "01:01:32",
-      "01:01:29"
-    ],
+    "Time": "01:01:30",
     "Splits": [
       {
         "label": "Hlaup",
@@ -661,7 +640,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3690.5,
+    "AverageTimeInSeconds": 3690,
     "Rank": 7
   },
   {
@@ -674,10 +653,7 @@
     "Club": [
       "Hyrox Reykjavík"
     ],
-    "Time": [
-      "01:01:51",
-      "01:01:47"
-    ],
+    "Time": "01:01:49",
     "Splits": [
       {
         "label": "Hlaup",
@@ -761,7 +737,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3709.0,
+    "AverageTimeInSeconds": 3709,
     "Rank": 8
   },
   {
@@ -774,10 +750,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:02:37",
-      "01:02:00"
-    ],
+    "Time": "01:02:18",
     "Splits": [
       {
         "label": "Hlaup",
@@ -851,7 +824,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3738.5,
+    "AverageTimeInSeconds": 3738,
     "Rank": 9
   },
   {
@@ -864,10 +837,7 @@
     "Club": [
       "Crossfit Sport"
     ],
-    "Time": [
-      "01:02:53",
-      "01:02:53"
-    ],
+    "Time": "01:02:53",
     "Splits": [
       {
         "label": "Hlaup",
@@ -951,7 +921,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3773.0,
+    "AverageTimeInSeconds": 3773,
     "Rank": 10
   },
   {
@@ -964,10 +934,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:03:03",
-      "01:03:01"
-    ],
+    "Time": "01:03:02",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1051,7 +1018,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3782.0,
+    "AverageTimeInSeconds": 3782,
     "Rank": 11
   },
   {
@@ -1064,10 +1031,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:05:07",
-      "01:05:06"
-    ],
+    "Time": "01:05:06",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1151,7 +1115,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3906.5,
+    "AverageTimeInSeconds": 3906,
     "Rank": 12
   },
   {
@@ -1164,10 +1128,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:05:17",
-      "01:05:14"
-    ],
+    "Time": "01:05:15",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1251,7 +1212,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 3915.5,
+    "AverageTimeInSeconds": 3915,
     "Rank": 13
   },
   {
@@ -1264,10 +1225,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:06:51",
-      "01:06:48"
-    ],
+    "Time": "01:06:49",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1351,7 +1309,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4009.5,
+    "AverageTimeInSeconds": 4009,
     "Rank": 14
   },
   {
@@ -1364,10 +1322,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:12:30",
-      "01:02:27"
-    ],
+    "Time": "01:07:28",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1451,7 +1406,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4048.5,
+    "AverageTimeInSeconds": 4048,
     "Rank": 15
   },
   {
@@ -1464,10 +1419,7 @@
     "Club": [
       "WorldFit"
     ],
-    "Time": [
-      "01:08:33",
-      "01:08:29"
-    ],
+    "Time": "01:08:31",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1551,7 +1503,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4111.0,
+    "AverageTimeInSeconds": 4111,
     "Rank": 16
   },
   {
@@ -1564,10 +1516,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:09:07",
-      "01:09:03"
-    ],
+    "Time": "01:09:05",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1651,7 +1600,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4145.0,
+    "AverageTimeInSeconds": 4145,
     "Rank": 17
   },
   {
@@ -1664,10 +1613,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:09:09",
-      "01:09:07"
-    ],
+    "Time": "01:09:08",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1751,7 +1697,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4148.0,
+    "AverageTimeInSeconds": 4148,
     "Rank": 18
   },
   {
@@ -1764,10 +1710,7 @@
     "Club": [
       "Hamarsport"
     ],
-    "Time": [
-      "01:09:17",
-      "01:09:13"
-    ],
+    "Time": "01:09:15",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1846,7 +1789,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4155.0,
+    "AverageTimeInSeconds": 4155,
     "Rank": 19
   },
   {
@@ -1859,10 +1802,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:10:35",
-      "01:10:32"
-    ],
+    "Time": "01:10:33",
     "Splits": [
       {
         "label": "Hlaup",
@@ -1946,7 +1886,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4233.5,
+    "AverageTimeInSeconds": 4233,
     "Rank": 20
   },
   {
@@ -1959,10 +1899,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:15:15",
-      "01:15:11"
-    ],
+    "Time": "01:15:13",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2046,7 +1983,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4513.0,
+    "AverageTimeInSeconds": 4513,
     "Rank": 21
   },
   {
@@ -2059,10 +1996,7 @@
     "Club": [
       "Crossfit XY"
     ],
-    "Time": [
-      "01:17:15",
-      "01:17:11"
-    ],
+    "Time": "01:17:13",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2146,7 +2080,7 @@
       }
     ],
     "Category": "Parakeppni KK PRO",
-    "AverageTimeInSeconds": 4633.0,
+    "AverageTimeInSeconds": 4633,
     "Rank": 22
   },
   {
@@ -2159,10 +2093,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:15:02",
-      "01:14:57"
-    ],
+    "Time": "01:14:59",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2246,7 +2177,7 @@
       }
     ],
     "Category": "Parakeppni KK OPEN",
-    "AverageTimeInSeconds": 4499.5,
+    "AverageTimeInSeconds": 4499,
     "Rank": 1
   },
   {
@@ -2257,12 +2188,9 @@
       "Emil Ingi Hafberg"
     ],
     "Club": [
-      "Worldfit"
+      "WorldFit"
     ],
-    "Time": [
-      "01:21:21",
-      "01:21:18"
-    ],
+    "Time": "01:21:19",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2341,7 +2269,7 @@
       }
     ],
     "Category": "Parakeppni KK OPEN",
-    "AverageTimeInSeconds": 4879.5,
+    "AverageTimeInSeconds": 4879,
     "Rank": 2
   },
   {
@@ -2354,10 +2282,7 @@
     "Club": [
       "Mjönir"
     ],
-    "Time": [
-      "01:23:18",
-      "01:23:15"
-    ],
+    "Time": "01:23:16",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2441,7 +2366,7 @@
       }
     ],
     "Category": "Parakeppni KK OPEN",
-    "AverageTimeInSeconds": 4996.5,
+    "AverageTimeInSeconds": 4996,
     "Rank": 3
   },
   {
@@ -2454,10 +2379,7 @@
     "Club": [
       "WorldClass"
     ],
-    "Time": [
-      "01:28:12",
-      "01:28:09"
-    ],
+    "Time": "01:28:10",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2541,7 +2463,7 @@
       }
     ],
     "Category": "Parakeppni KK OPEN",
-    "AverageTimeInSeconds": 5290.5,
+    "AverageTimeInSeconds": 5290,
     "Rank": 4
   },
   {
@@ -2554,10 +2476,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:07:30",
-      "01:07:27"
-    ],
+    "Time": "01:07:28",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2641,7 +2560,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4048.5,
+    "AverageTimeInSeconds": 4048,
     "Rank": 1
   },
   {
@@ -2654,10 +2573,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:10:46",
-      "01:10:44"
-    ],
+    "Time": "01:10:45",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2741,7 +2657,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4245.0,
+    "AverageTimeInSeconds": 4245,
     "Rank": 2
   },
   {
@@ -2754,10 +2670,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:10:54",
-      "01:10:51"
-    ],
+    "Time": "01:10:52",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2836,7 +2749,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4252.5,
+    "AverageTimeInSeconds": 4252,
     "Rank": 3
   },
   {
@@ -2849,10 +2762,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:11:09",
-      "01:11:06"
-    ],
+    "Time": "01:11:07",
     "Splits": [
       {
         "label": "Hlaup",
@@ -2921,7 +2831,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4267.5,
+    "AverageTimeInSeconds": 4267,
     "Rank": 4
   },
   {
@@ -2934,10 +2844,7 @@
     "Club": [
       "Mjölnir"
     ],
-    "Time": [
-      "01:11:17",
-      "01:11:13"
-    ],
+    "Time": "01:11:15",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3021,7 +2928,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4275.0,
+    "AverageTimeInSeconds": 4275,
     "Rank": 5
   },
   {
@@ -3034,10 +2941,7 @@
     "Club": [
       "CFR / CF Sport"
     ],
-    "Time": [
-      "01:12:15",
-      "01:12:12"
-    ],
+    "Time": "01:12:13",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3121,7 +3025,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4333.5,
+    "AverageTimeInSeconds": 4333,
     "Rank": 6
   },
   {
@@ -3134,10 +3038,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:12:30",
-      "01:12:26"
-    ],
+    "Time": "01:12:28",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3221,7 +3122,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4348.0,
+    "AverageTimeInSeconds": 4348,
     "Rank": 7
   },
   {
@@ -3234,10 +3135,7 @@
     "Club": [
       "WorldFit og Crossfit Reykjavik"
     ],
-    "Time": [
-      "01:14:32",
-      "01:14:29"
-    ],
+    "Time": "01:14:30",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3321,7 +3219,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4470.5,
+    "AverageTimeInSeconds": 4470,
     "Rank": 8
   },
   {
@@ -3334,10 +3232,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:14:34",
-      "01:14:31"
-    ],
+    "Time": "01:14:32",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3421,7 +3316,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4472.5,
+    "AverageTimeInSeconds": 4472,
     "Rank": 9
   },
   {
@@ -3434,10 +3329,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:15:09",
-      "01:15:07"
-    ],
+    "Time": "01:15:08",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3521,7 +3413,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 4508.0,
+    "AverageTimeInSeconds": 4508,
     "Rank": 10
   },
   {
@@ -3534,10 +3426,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:28:27",
-      "01:28:23"
-    ],
+    "Time": "01:28:25",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3621,7 +3510,7 @@
       }
     ],
     "Category": "Parakeppni KVK PRO",
-    "AverageTimeInSeconds": 5305.0,
+    "AverageTimeInSeconds": 5305,
     "Rank": 11
   },
   {
@@ -3634,10 +3523,7 @@
     "Club": [
       "Ultraform"
     ],
-    "Time": [
-      "01:02:44",
-      "01:02:40"
-    ],
+    "Time": "01:02:42",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3721,7 +3607,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 3762.0,
+    "AverageTimeInSeconds": 3762,
     "Rank": 1
   },
   {
@@ -3734,10 +3620,7 @@
     "Club": [
       "Afrek"
     ],
-    "Time": [
-      "01:10:20",
-      "01:10:18"
-    ],
+    "Time": "01:10:19",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3821,7 +3704,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4219.0,
+    "AverageTimeInSeconds": 4219,
     "Rank": 2
   },
   {
@@ -3834,10 +3717,7 @@
     "Club": [
       "Ultraform"
     ],
-    "Time": [
-      "01:12:28",
-      "01:12:25"
-    ],
+    "Time": "01:12:26",
     "Splits": [
       {
         "label": "Hlaup",
@@ -3906,7 +3786,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4346.5,
+    "AverageTimeInSeconds": 4346,
     "Rank": 3
   },
   {
@@ -3919,10 +3799,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:13:33",
-      "01:13:29"
-    ],
+    "Time": "01:13:31",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4006,7 +3883,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4411.0,
+    "AverageTimeInSeconds": 4411,
     "Rank": 4
   },
   {
@@ -4017,12 +3894,9 @@
       "Eyrún Kristín Eyjólfsdóttir"
     ],
     "Club": [
-      "World Class"
+      "WorldClass"
     ],
-    "Time": [
-      "01:15:21",
-      "01:15:19"
-    ],
+    "Time": "01:15:20",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4106,7 +3980,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4520.0,
+    "AverageTimeInSeconds": 4520,
     "Rank": 5
   },
   {
@@ -4119,10 +3993,7 @@
     "Club": [
       "Ultraform"
     ],
-    "Time": [
-      "01:16:43",
-      "01:16:40"
-    ],
+    "Time": "01:16:41",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4196,7 +4067,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4601.5,
+    "AverageTimeInSeconds": 4601,
     "Rank": 6
   },
   {
@@ -4209,10 +4080,7 @@
     "Club": [
       "Mjölnir"
     ],
-    "Time": [
-      "01:16:55",
-      "01:16:51"
-    ],
+    "Time": "01:16:53",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4296,7 +4164,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4613.0,
+    "AverageTimeInSeconds": 4613,
     "Rank": 7
   },
   {
@@ -4309,10 +4177,7 @@
     "Club": [
       "Ultraform"
     ],
-    "Time": [
-      "01:17:24",
-      "01:17:19"
-    ],
+    "Time": "01:17:21",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4391,7 +4256,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4641.5,
+    "AverageTimeInSeconds": 4641,
     "Rank": 8
   },
   {
@@ -4404,10 +4269,7 @@
     "Club": [
       "Crossfit Selfoss"
     ],
-    "Time": [
-      "01:19:32",
-      "01:19:28"
-    ],
+    "Time": "01:19:30",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4491,7 +4353,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4770.0,
+    "AverageTimeInSeconds": 4770,
     "Rank": 9
   },
   {
@@ -4504,10 +4366,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:20:04",
-      "01:20:01"
-    ],
+    "Time": "01:20:02",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4591,7 +4450,7 @@
       }
     ],
     "Category": "Parakeppni KVK OPEN",
-    "AverageTimeInSeconds": 4802.5,
+    "AverageTimeInSeconds": 4802,
     "Rank": 10
   },
   {
@@ -4602,12 +4461,9 @@
       "Guðrún Heiða"
     ],
     "Club": [
-      "Worldfit"
+      "WorldFit"
     ],
-    "Time": [
-      "01:00:49",
-      "01:00:48"
-    ],
+    "Time": "01:00:48",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4691,7 +4547,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 3648.5,
+    "AverageTimeInSeconds": 3648,
     "Rank": 1
   },
   {
@@ -4704,10 +4560,7 @@
     "Club": [
       "Crossfit Sport"
     ],
-    "Time": [
-      "01:01:45",
-      "01:01:42"
-    ],
+    "Time": "01:01:43",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4791,7 +4644,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 3703.5,
+    "AverageTimeInSeconds": 3703,
     "Rank": 2
   },
   {
@@ -4802,12 +4655,9 @@
       "Grétar Ali Khan"
     ],
     "Club": [
-      "Grandi101"
+      "Grandi 101"
     ],
-    "Time": [
-      "01:02:57",
-      "01:02:54"
-    ],
+    "Time": "01:02:55",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4886,7 +4736,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 3775.5,
+    "AverageTimeInSeconds": 3775,
     "Rank": 3
   },
   {
@@ -4899,10 +4749,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:02:57",
-      "01:02:54"
-    ],
+    "Time": "01:02:55",
     "Splits": [
       {
         "label": "Hlaup",
@@ -4986,7 +4833,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 3775.5,
+    "AverageTimeInSeconds": 3775,
     "Rank": 4
   },
   {
@@ -4997,12 +4844,9 @@
       "Jóhann Gísli"
     ],
     "Club": [
-      "Grandi101"
+      "Grandi 101"
     ],
-    "Time": [
-      "01:07:27",
-      "01:07:25"
-    ],
+    "Time": "01:07:26",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5086,7 +4930,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4046.0,
+    "AverageTimeInSeconds": 4046,
     "Rank": 5
   },
   {
@@ -5099,10 +4943,7 @@
     "Club": [
       ""
     ],
-    "Time": [
-      "01:08:41",
-      "01:08:37"
-    ],
+    "Time": "01:08:39",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5186,7 +5027,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4119.0,
+    "AverageTimeInSeconds": 4119,
     "Rank": 6
   },
   {
@@ -5197,12 +5038,9 @@
       "Andrea Marín"
     ],
     "Club": [
-      "Worldfit"
+      "WorldFit"
     ],
-    "Time": [
-      "01:08:50",
-      "01:08:48"
-    ],
+    "Time": "01:08:49",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5286,7 +5124,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4129.0,
+    "AverageTimeInSeconds": 4129,
     "Rank": 7
   },
   {
@@ -5299,10 +5137,7 @@
     "Club": [
       "FH"
     ],
-    "Time": [
-      "01:09:45",
-      "01:09:41"
-    ],
+    "Time": "01:09:43",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5386,7 +5221,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4183.0,
+    "AverageTimeInSeconds": 4183,
     "Rank": 8
   },
   {
@@ -5399,10 +5234,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:09:49",
-      "01:09:46"
-    ],
+    "Time": "01:09:47",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5481,7 +5313,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4187.5,
+    "AverageTimeInSeconds": 4187,
     "Rank": 9
   },
   {
@@ -5492,12 +5324,9 @@
       "Karen Sif Jónsdóttir"
     ],
     "Club": [
-      "ULTRA form"
+      "Ultraform"
     ],
-    "Time": [
-      "01:11:07",
-      "01:11:05"
-    ],
+    "Time": "01:11:06",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5581,7 +5410,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4266.0,
+    "AverageTimeInSeconds": 4266,
     "Rank": 10
   },
   {
@@ -5594,10 +5423,7 @@
     "Club": [
       "Grandi 101"
     ],
-    "Time": [
-      "01:11:14",
-      "01:11:11"
-    ],
+    "Time": "01:11:12",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5681,7 +5507,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4272.5,
+    "AverageTimeInSeconds": 4272,
     "Rank": 11
   },
   {
@@ -5692,12 +5518,9 @@
       "Gunnar Hilmarsson"
     ],
     "Club": [
-      "crossfit reykjavík"
+      "CFR"
     ],
-    "Time": [
-      "01:13:13",
-      "01:13:11"
-    ],
+    "Time": "01:13:12",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5781,7 +5604,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4392.0,
+    "AverageTimeInSeconds": 4392,
     "Rank": 12
   },
   {
@@ -5794,10 +5617,7 @@
     "Club": [
       ""
     ],
-    "Time": [
-      "01:13:36",
-      "01:13:32"
-    ],
+    "Time": "01:13:34",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5876,7 +5696,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4414.0,
+    "AverageTimeInSeconds": 4414,
     "Rank": 13
   },
   {
@@ -5889,10 +5709,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:13:41",
-      "01:13:38"
-    ],
+    "Time": "01:13:39",
     "Splits": [
       {
         "label": "Hlaup",
@@ -5976,7 +5793,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4419.5,
+    "AverageTimeInSeconds": 4419,
     "Rank": 14
   },
   {
@@ -5989,10 +5806,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:14:19",
-      "01:14:16"
-    ],
+    "Time": "01:14:17",
     "Splits": [
       {
         "label": "Hlaup",
@@ -6076,7 +5890,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4457.5,
+    "AverageTimeInSeconds": 4457,
     "Rank": 15
   },
   {
@@ -6089,10 +5903,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:16:22",
-      "01:16:20"
-    ],
+    "Time": "01:16:21",
     "Splits": [
       {
         "label": "Hlaup",
@@ -6176,7 +5987,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4581.0,
+    "AverageTimeInSeconds": 4581,
     "Rank": 16
   },
   {
@@ -6189,10 +6000,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:16:57",
-      "01:16:53"
-    ],
+    "Time": "01:16:55",
     "Splits": [
       {
         "label": "Hlaup",
@@ -6271,7 +6079,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4615.0,
+    "AverageTimeInSeconds": 4615,
     "Rank": 17
   },
   {
@@ -6284,10 +6092,7 @@
     "Club": [
       "Hengill"
     ],
-    "Time": [
-      "01:17:06",
-      "01:17:04"
-    ],
+    "Time": "01:17:05",
     "Splits": [
       {
         "label": "Hlaup",
@@ -6371,7 +6176,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4625.0,
+    "AverageTimeInSeconds": 4625,
     "Rank": 18
   },
   {
@@ -6384,10 +6189,7 @@
     "Club": [
       "CFR"
     ],
-    "Time": [
-      "01:17:16",
-      "01:17:12"
-    ],
+    "Time": "01:17:14",
     "Splits": [
       {
         "label": "Hlaup",
@@ -6471,7 +6273,7 @@
       }
     ],
     "Category": "Heildarúrslit / Overall10 ára og eldri",
-    "AverageTimeInSeconds": 4634.0,
+    "AverageTimeInSeconds": 4634,
     "Rank": 19
   }
 ]

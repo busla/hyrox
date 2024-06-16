@@ -127,3 +127,14 @@ def process_data(df):
     )
 
     return df, splits_df, club_stats
+
+
+def calculate_overall_performance(df):
+    df["AverageTimeInSeconds"] = df["Time"].apply(convert_time_to_seconds)
+    overall_performance = (
+        df.groupby("Team")["AverageTimeInSeconds"].mean().reset_index()
+    )
+    overall_performance["TotalTime"] = overall_performance[
+        "AverageTimeInSeconds"
+    ].apply(lambda x: f"{int(x//3600):02}:{int((x%3600)//60):02}:{int(x%60):02}")
+    return overall_performance

@@ -1,34 +1,10 @@
-from typing import Any, Dict, List
 import requests
 import re
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
-
-
-def fix_wrong_category(value: Dict) -> Dict:
-    if "Hreindýrabollan".lower() in value["Team"].lower():
-        print(f"Fixing wrong category {value['Category']} for {value['Team']}")
-        value["Category"] = value["Category"].replace("OPEN", "PRO")
-        print(f"Fixed category: {value['Category']}")
-    return value
-
-
-def normalize_club_name(club: str) -> str:
-    normalization_map = {
-        "CFR": "CFR",
-        "CFRVK": "CFR",
-        "CfRvk": "CFR",
-        "CrossFit Reykjavík": "CFR",
-        "Cfr": "CFR",
-        "CF RVK": "CFR",
-        "Crossfit Reykjavík": "CFR",
-        "Crossfit Reykjavik": "CFR",
-        "Cfrvk": "CFR",
-        "CF RVK": "CFR",
-        "cfr": "CFR",
-    }
-    return normalization_map.get(club, club)
+from processor import normalize_club_name
+from utils import fix_wrong_category
 
 
 def convert_time_to_seconds(time_str):
@@ -80,6 +56,14 @@ def scrape_category(url):
             total_time = columns[-1].get_text(strip=True)
             second_last_time = columns[-2].get_text(strip=True)
 
+            # Calculate the average time
+            time_seconds = [
+                convert_time_to_seconds(second_last_time),
+                convert_time_to_seconds(total_time),
+            ]
+            average_time_seconds = sum(time_seconds) / len(time_seconds)
+            average_time = f"{int(average_time_seconds // 3600):02}:{int((average_time_seconds % 3600) // 60):02}:{int(average_time_seconds % 60):02}"
+
             splits = []
             split_text = columns[5].get_text(strip=True)
             split_items = split_text.split(")")
@@ -92,12 +76,13 @@ def scrape_category(url):
                     label = label_time[1].strip()
                     label = re.sub(r"[0-9.]", "", label).strip()
                     splits.append({"label": label, "time": time, "order": i + 1})
+
             result = {
                 "BIB": bib,
                 "Team": team_name,
                 "Members": members,
                 "Club": club_names,
-                "Time": [second_last_time, total_time],
+                "Time": average_time,
                 "Splits": splits,
                 "Category": category_name,
             }
@@ -159,8 +144,7 @@ def main():
     # Calculate ranks for each category
     for category, teams in categories.items():
         for team in teams:
-            time_seconds = [convert_time_to_seconds(t) for t in team["Time"]]
-            team["AverageTimeInSeconds"] = sum(time_seconds) / len(time_seconds)
+            team["AverageTimeInSeconds"] = convert_time_to_seconds(team["Time"])
 
         # Sort teams by average time and assign ranks
         teams.sort(key=lambda x: x["AverageTimeInSeconds"])
